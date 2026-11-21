@@ -33,6 +33,13 @@ Proyecto del canal **[@WARMAPSTICK](https://www.youtube.com/@WARMAPSTICK)**: gue
 
 **Costo estimado en el estilo pizarra:** ~70 créditos de Higgsfield por video de 6 minutos. El plan Plus alcanza para ~14–17 videos al mes y el Ultra para uno diario.
 
+## Shorts
+- De cada video largo salen **2–3 Shorts**: el dato más impactante, el momento clave y un «What if…». Cada uno termina con el enlace al video completo.
+- Se reusan los dibujos del video largo. Como el fondo es blanco, se acomodan en vertical (9:16) con el gancho arriba y los subtítulos abajo, hechos con código.
+- **Costo extra:** 0–3 créditos por Short (como mucho una imagen nueva para el gancho).
+- **Con el plan Plus (~1 200 créditos):** ~16 videos largos y 32–48 Shorts al mes.
+- Los Shorts sirven para publicar todos los días y ganar suscriptores. El video largo trae las vistas por búsqueda y los ingresos.
+
 ## Estructura del repo
 ```
 Guiones/                 Guiones y prompts de imágenes por video
