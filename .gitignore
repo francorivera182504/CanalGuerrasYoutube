@@ -1,0 +1,16 @@
+# Media pesada: se comparte por Google Drive
+Imagenes/
+Audios/
+Render/
+*.mp4
+*.mov
+*.wav
+*.mp3
+
+# Sistema
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Configuración local de Claude
+.claude/
