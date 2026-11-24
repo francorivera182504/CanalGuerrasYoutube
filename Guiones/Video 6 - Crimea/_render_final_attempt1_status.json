@@ -1,0 +1,13 @@
+{
+  "started": "2026-11-23T14:25:16.658956-05:00",
+  "command": [
+    "C:\\Python314\\python.exe",
+    "-u",
+    "build.py"
+  ],
+  "build_sha256_before": "ec342e7000f1219dc4ae0ba09e866fe45e69aace29daa66da7abde98d9bc0164",
+  "status": "failed",
+  "exit_code": 1,
+  "finished": "2026-11-23T14:25:21.082688-05:00",
+  "build_sha256_after": "ec342e7000f1219dc4ae0ba09e866fe45e69aace29daa66da7abde98d9bc0164"
+}

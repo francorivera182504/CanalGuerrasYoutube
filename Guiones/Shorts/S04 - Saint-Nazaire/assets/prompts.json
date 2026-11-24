@@ -1,0 +1,42 @@
+[
+  {
+    "name": "commando",
+    "subject": "One British commando, dark green beret with no badge, olive tunic, dark trousers, small backpack, charcoal face camouflage on round white face, dot eyes, stick arms and legs, one hand pointing ahead.",
+    "style": "WarMap Stick: whiteboard Stick cartoon, flat colours, thick black outlines, round white heads, dot eyes. Pure white background, no text, no flags or insignia. Generated with built-in image_gen; resized to 1024x1024 then ink silhouette cutout and white sticker border."
+  },
+  {
+    "name": "sailor",
+    "subject": "One British Royal Navy sailor, navy blue jumper, white plain sailor cap without text or insignia, blue collar, round white head with dot eyes, stick arms and legs, one hand giving thumbs up.",
+    "style": "WarMap Stick: whiteboard Stick cartoon, flat colours, thick black outlines, round white heads, dot eyes. Pure white background, no text, no flags or insignia. Generated with built-in image_gen; resized to 1024x1024 then ink silhouette cutout and white sticker border."
+  },
+  {
+    "name": "inspectors",
+    "subject": "Two German soldiers inspecting an unseen wreck, plain grey uniforms and generic grey helmets, round white heads and dot eyes, one leaning forward holding a plain flashlight down, the other puzzled with a hand on chin. No insignia, no flags, no weapons.",
+    "style": "WarMap Stick: whiteboard Stick cartoon, flat colours, thick black outlines, round white heads, dot eyes. Pure white background, no text, no flags or insignia. Generated with built-in image_gen; resized to 1024x1024 then ink silhouette cutout and white sticker border."
+  },
+  {
+    "name": "charges",
+    "subject": "A closed wooden crate of explosives as a simple friendly educational icon, a few red sticks visible at the open corner, a small round analog clock fuse icon attached to front, no numerals on clock, no text.",
+    "style": "WarMap Stick: whiteboard Stick cartoon, flat colours, thick black outlines, round white heads, dot eyes. Pure white background, no text, no flags or insignia. Generated with built-in image_gen; resized to 1024x1024 then ink silhouette cutout and white sticker border."
+  },
+  {
+    "name": "general",
+    "subject": "One generic British general with plain khaki peaked cap without insignia, olive tunic, round white head with dot eyes, stick arms and legs, hand on chin, other palm upward in a thoughtful questioning gesture. No medals, no flags.",
+    "style": "WarMap Stick: whiteboard Stick cartoon, flat colours, thick black outlines, round white heads, dot eyes. Pure white background, no text, no flags or insignia. Generated with built-in image_gen; resized to 1024x1024 then ink silhouette cutout and white sticker border."
+  },
+  {
+    "name": "ship",
+    "subject": "A simplified side view of HMS Campbeltown 1942 raid configuration, long thin grey destroyer hull, TWO short raked funnels angled at their tops, small bridge, simple mast and forward naval gun, no flags, no people.",
+    "style": "WarMap Stick: whiteboard Stick cartoon, flat colours, thick black outlines, round white heads, dot eyes. Pure white background, no text, no flags or insignia. Generated with built-in image_gen; resized to 1024x1024 then ink silhouette cutout and white sticker border."
+  },
+  {
+    "name": "dock",
+    "subject": "A simple isometric dry dock icon, long rectangular empty stone basin with huge steel rectangular caisson gate at near end, cyan water outside, heavy black outlines, flat grey and warm beige colours.",
+    "style": "WarMap Stick: whiteboard Stick cartoon, flat colours, thick black outlines, round white heads, dot eyes. Pure white background, no text, no flags or insignia. Generated with built-in image_gen; resized to 1024x1024 then ink silhouette cutout and white sticker border."
+  },
+  {
+    "name": "tirpitz",
+    "subject": "A side view silhouette-like generic grey WWII battleship representing Tirpitz, long broad hull, four paired main gun turrets, tall bridge tower, one large funnel, radar mast. No flags, no text, no insignia.",
+    "style": "WarMap Stick: whiteboard Stick cartoon, flat colours, thick black outlines, round white heads, dot eyes. Pure white background, no text, no flags or insignia. Generated with built-in image_gen; resized to 1024x1024 then ink silhouette cutout and white sticker border."
+  }
+]

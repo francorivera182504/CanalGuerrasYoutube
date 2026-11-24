@@ -1,0 +1,217 @@
+{
+ "title": "Why Russia Wants Crimea—and Why Its Bridge Is a Target",
+ "keyword": "why russia wants crimea / crimea explained / crimea bridge attack — TubeAlfred 23-nov-2026",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {
+   "id": "01",
+   "headline": "ROAD ARCH DOWN",
+   "style": "3D",
+   "text": "Ukraine just dropped the main road arch of Russia's bridge to Crimea.",
+   "visual": "HOOK cuadro 0: maqueta 3D del puente de Kerch, el arco vial ya se deforma; en 'dropped' cae al agua, salpicadura, temblor. Al fondo sigue el arco ferroviario. Etiqueta ANIMATED RECONSTRUCTION."
+  },
+  {
+   "id": "02",
+   "headline": "WHY THIS BRIDGE?",
+   "style": "MAP",
+   "text": "Russia still has another route. So why does this one bridge matter so much?",
+   "visual": "Alejamiento rápido al mapa neón: Crimea, el puente cortado al este y la ruta terrestre por el norte que se ilumina. Signo de interrogación."
+  },
+  {
+   "id": "03",
+   "headline": "17 NOV 2026",
+   "style": "MAP",
+   "text": "On November seventeenth, the main road arch and an adjoining span collapsed into the water. Further attacks interrupted rail traffic, which later resumed.",
+   "visual": "Zoom al estrecho de Kerch: línea del puente con tramo rojo roto; icono tren con pausa y luego media flecha."
+  },
+  {
+   "id": "04",
+   "headline": "THE PARADOX",
+   "style": "CHAR",
+   "text": "The answer is a paradox. Crimea gives Russia huge military value, but keeping it supplied depends on a few vulnerable links.",
+   "visual": "Stick general ruso sostiene Crimea (escudo/ancla) en una mano; de la otra cuelgan hilos finos (puente, ruta) que tiemblan."
+  },
+  {
+   "id": "05",
+   "headline": "THE PENINSULA",
+   "style": "MAP",
+   "text": "Crimea is a peninsula between the Black Sea and the Sea of Azov. Narrow strips of land, like the Perekop Isthmus, link it to mainland Ukraine.",
+   "visual": "Mapa neón: se dibuja el contorno de Crimea, etiquetas BLACK SEA y SEA OF AZOV aparecen; el istmo de Perekop pulsa."
+  },
+  {
+   "id": "06",
+   "headline": "SEVASTOPOL",
+   "style": "MAP",
+   "text": "In the southwest sits Sevastopol: a deep, sheltered harbour that gives a navy a strategic base in the northern Black Sea.",
+   "visual": "Zoom a Sevastopol: ancla neón, barcos que se mecen, ondas de alcance sobre el mar."
+  },
+  {
+   "id": "07",
+   "headline": "CRIMEAN KHANATE",
+   "style": "MAP",
+   "text": "Crimea was not always Russian. For centuries it was home to the Crimean Tatars and their Khanate.",
+   "visual": "Mapa antiguo: Crimea en verde con etiqueta CRIMEAN KHANATE; Stick tártaro con gorro."
+  },
+  {
+   "id": "08",
+   "headline": "1783",
+   "style": "MAP",
+   "text": "In seventeen eighty-three, the Russian Empire under Catherine the Great annexed it, and built Sevastopol as its new naval base.",
+   "visual": "El color de Crimea pasa a rojo imperial con barrido; aparece Catalina (Stick con corona); se construye el puerto y entran barcos de vela."
+  },
+  {
+   "id": "09",
+   "headline": "SAME PENINSULA",
+   "style": "MAP",
+   "text": "Seventy years later, Britain, France and the Ottoman Empire landed here in the Crimean War. They besieged Sevastopol for almost a year, and Russia lost the war.",
+   "visual": "Flotas británica, francesa y otomana llegan con flechas; anillo de asedio alrededor de Sevastopol; humo de cañones."
+  },
+  {
+   "id": "10",
+   "headline": "1944",
+   "style": "MAP",
+   "text": "In nineteen forty-four, Stalin ordered the deportation of Crimea's Tatar population, mainly to Central Asia.",
+   "visual": "Flechas grises largas desde Crimea hacia el este (Asia Central); trenes de carga; sin violencia gráfica."
+  },
+  {
+   "id": "11",
+   "headline": "1954",
+   "style": "MAP",
+   "text": "Then, in nineteen fifty-four, Soviet leaders transferred Crimea from the Russian republic to the Ukrainian republic. Inside the Soviet Union, it was just an internal line.",
+   "visual": "Mapa de la URSS en un solo color con línea interna punteada; Crimea pasa del lado ruso al ucraniano con un clic."
+  },
+  {
+   "id": "12",
+   "headline": "1991",
+   "style": "MAP",
+   "text": "But in nineteen ninety-one, the Soviet Union collapsed. That internal line became an international border, and Crimea stayed in independent Ukraine.",
+   "visual": "La URSS se rompe en piezas; la línea punteada se vuelve frontera neón; Crimea queda azul con Ucrania."
+  },
+  {
+   "id": "13",
+   "headline": "THE LEASE",
+   "style": "CHAR",
+   "text": "Russia kept its Black Sea Fleet in Sevastopol by leasing the naval base from Ukraine.",
+   "visual": "Stick ruso firma un contrato LEASE con Stick ucraniano; barcos rusos en el puerto."
+  },
+  {
+   "id": "14",
+   "headline": "2014",
+   "style": "MAP",
+   "text": "Then, in twenty fourteen, soldiers without insignia seized Crimea's parliament and key sites. Within weeks, Russia annexed the peninsula after a referendum most of the world rejected.",
+   "visual": "Soldados sin insignia (Stick verde) aparecen sobre puntos clave; Crimea se rayas rojo sobre azul (control vs. frontera reconocida); urna con X."
+  },
+  {
+   "id": "15",
+   "headline": "WATER CUT",
+   "style": "MAP",
+   "text": "Ukraine answered by blocking the North Crimean Canal. Before then, it had supplied most of Crimea's water, mainly for farming.",
+   "visual": "Flujo azul del canal desde el Dniéper hacia Crimea que se corta con una compuerta; campos que se secan."
+  },
+  {
+   "id": "16",
+   "headline": "NO DIRECT ROAD",
+   "style": "MAP",
+   "text": "Now Russia had a problem. It held Crimea, but had no direct road from Russia. Supplies relied heavily on ferries and shipping.",
+   "visual": "Crimea parece una isla: borde norte se oscurece; ferris van y vienen en Kerch."
+  },
+  {
+   "id": "17",
+   "headline": "19 KM",
+   "style": "3D",
+   "text": "So Russia built a bridge, about nineteen kilometres long. The road opened in twenty eighteen, and the railway in twenty nineteen.",
+   "visual": "Toma 3D del puente completo: tramo vial se ilumina (2018) y luego el ferroviario (2019); camiones y tren cruzando."
+  },
+  {
+   "id": "18",
+   "headline": "ROAD + RAIL",
+   "style": "3D",
+   "text": "It is really two parallel bridges: one for cars and trucks, and one for trains carrying fuel, equipment and troops.",
+   "visual": "Misma maqueta: etiquetas ROAD y RAIL; tren de cisternas cruzando."
+  },
+  {
+   "id": "19",
+   "headline": "2022: INVASION",
+   "style": "MAP",
+   "text": "In February twenty twenty-two, Russia launched its full-scale invasion. Crimea became a launch pad for the attack on southern Ukraine.",
+   "visual": "Flechas rojas salen de Crimea hacia el norte (Jersón, Melitópol) con fecha FEB 2022."
+  },
+  {
+   "id": "20",
+   "headline": "LAND CORRIDOR",
+   "style": "MAP",
+   "text": "Russian forces seized a land corridor along the Sea of Azov, giving Russia a road to Crimea, and reopened the canal.",
+   "visual": "Se ilumina el corredor terrestre por la costa de Azov; el canal vuelve a fluir."
+  },
+  {
+   "id": "21",
+   "headline": "2023",
+   "style": "MAP",
+   "text": "A year later, the Kakhovka dam was destroyed, draining the reservoir that fed the canal.",
+   "visual": "El embalse de Kakhovka se vacía (azul que se retira); el canal se apaga otra vez."
+  },
+  {
+   "id": "22",
+   "headline": "THE TARGET",
+   "style": "MAP",
+   "text": "The bridge remained a major supply route and a symbol of Russian control. Both made it a target.",
+   "visual": "El puente pulsa en rojo con una mira de objetivo que se cierra."
+  },
+  {
+   "id": "23",
+   "headline": "OCT 2022",
+   "style": "3D",
+   "text": "In October twenty twenty-two, a truck bomb collapsed parts of the road bridge and set a fuel train on fire.",
+   "visual": "Maqueta: explosión en el tramo vial, dos vanos caen; tren de cisternas en llamas en el ferroviario. Fecha OCT 2022."
+  },
+  {
+   "id": "24",
+   "headline": "JUL 2023",
+   "style": "MAP",
+   "text": "In July twenty twenty-three, sea drones struck again and damaged a road span.",
+   "visual": "Drones navales neón cruzan el agua hacia el puente; destello y tramo dañado."
+  },
+  {
+   "id": "25",
+   "headline": "JUN 2025",
+   "style": "MAP",
+   "text": "In twenty twenty-five, Ukraine's security service said it hit the bridge's underwater supports with explosives. Russia reopened it within hours.",
+   "visual": "Corte bajo el agua: pilares con cargas que estallan; luego el puente vuelve a abrir (icono verde)."
+  },
+  {
+   "id": "26",
+   "headline": "NOV 2026",
+   "style": "3D",
+   "text": "And this November, a new wave of strikes brought down the main road arch.",
+   "visual": "Repetición del colapso del arco desde otro ángulo, más lento."
+  },
+  {
+   "id": "27",
+   "headline": "CUT OFF?",
+   "style": "MAP",
+   "text": "So is Crimea cut off? Not completely. Trucks can still use the land corridor, and Russian authorities say trains have resumed.",
+   "visual": "Mapa: puente vial en rojo cortado; camiones se desvían por el corredor del norte; tren en el puente ferroviario a media velocidad."
+  },
+  {
+   "id": "28",
+   "headline": "SLOWER, RISKIER",
+   "style": "MAP",
+   "text": "But that corridor runs through occupied Ukraine, much closer to the front line. Rerouting can delay supplies and expose them to attacks. In Sevastopol, fuel restrictions were reported.",
+   "visual": "Línea del frente neón cerca del corredor; camiones con marcas de peligro; surtidor con cartel LIMIT en Sevastopol."
+  },
+  {
+   "id": "29",
+   "headline": "THE PRICE",
+   "style": "CHAR",
+   "text": "That is the paradox of Crimea. It is a naval base, a symbol and a launch pad, but it depends on supplies from outside.",
+   "visual": "Stick general sostiene Crimea mientras los hilos se tensan; uno se rompe (puente)."
+  },
+  {
+   "id": "30",
+   "headline": "YOUR TAKE?",
+   "style": "MAP",
+   "text": "Can Russia keep Crimea supplied without its bridge? Tell me in the comments, and watch our Russia–Ukraine war guide next.",
+   "visual": "Mapa final con Crimea, puente roto y corredor; tarjeta hacia el video Russia–Ukraine."
+  }
+ ]
+}

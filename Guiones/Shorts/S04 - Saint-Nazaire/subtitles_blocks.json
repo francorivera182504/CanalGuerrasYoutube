@@ -1,0 +1,1136 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.808,
+    "scene": "01",
+    "words": [
+      {
+        "w": "This",
+        "s": 0.1,
+        "e": 0.348,
+        "scene": "01",
+        "txt": "THIS"
+      },
+      {
+        "w": "destroyer",
+        "s": 0.359,
+        "e": 0.796,
+        "scene": "01",
+        "txt": "DESTROYER"
+      }
+    ]
+  },
+  {
+    "start": 0.808,
+    "end": 1.881,
+    "scene": "01",
+    "words": [
+      {
+        "w": "exploded",
+        "s": 0.808,
+        "e": 1.279,
+        "scene": "01",
+        "txt": "EXPLODED"
+      },
+      {
+        "w": "hours",
+        "s": 1.291,
+        "e": 1.609,
+        "scene": "01",
+        "txt": "HOURS"
+      },
+      {
+        "w": "after",
+        "s": 1.621,
+        "e": 1.869,
+        "scene": "01",
+        "txt": "AFTER"
+      }
+    ]
+  },
+  {
+    "start": 1.881,
+    "end": 2.624,
+    "scene": "01",
+    "words": [
+      {
+        "w": "its",
+        "s": 1.881,
+        "e": 2.01,
+        "scene": "01",
+        "txt": "ITS"
+      },
+      {
+        "w": "crew",
+        "s": 2.022,
+        "e": 2.293,
+        "scene": "01",
+        "txt": "CREW"
+      },
+      {
+        "w": "rammed",
+        "s": 2.305,
+        "e": 2.612,
+        "scene": "01",
+        "txt": "RAMMED"
+      }
+    ]
+  },
+  {
+    "start": 2.624,
+    "end": 3.743,
+    "scene": "01",
+    "words": [
+      {
+        "w": "a",
+        "s": 2.624,
+        "e": 2.683,
+        "scene": "01",
+        "txt": "A"
+      },
+      {
+        "w": "dock",
+        "s": 2.694,
+        "e": 2.93,
+        "scene": "01",
+        "txt": "DOCK"
+      },
+      {
+        "w": "gate",
+        "s": 2.942,
+        "e": 3.343,
+        "scene": "01",
+        "txt": "GATE"
+      }
+    ]
+  },
+  {
+    "start": 3.743,
+    "end": 4.56,
+    "scene": "02",
+    "words": [
+      {
+        "w": "Why",
+        "s": 3.843,
+        "e": 4.102,
+        "scene": "02",
+        "txt": "WHY"
+      },
+      {
+        "w": "sacrifice",
+        "s": 4.114,
+        "e": 4.668,
+        "scene": "02",
+        "txt": "SACRIFICE"
+      }
+    ]
+  },
+  {
+    "start": 4.56,
+    "end": 5.21,
+    "scene": "02",
+    "words": [
+      {
+        "w": "a",
+        "s": 4.68,
+        "e": 4.727,
+        "scene": "02",
+        "txt": "A"
+      },
+      {
+        "w": "warship",
+        "s": 4.739,
+        "e": 5.199,
+        "scene": "02",
+        "txt": "WARSHIP"
+      }
+    ]
+  },
+  {
+    "start": 5.21,
+    "end": 5.86,
+    "scene": "02",
+    "words": [
+      {
+        "w": "just",
+        "s": 5.211,
+        "e": 5.4,
+        "scene": "02",
+        "txt": "JUST"
+      },
+      {
+        "w": "to",
+        "s": 5.411,
+        "e": 5.459,
+        "scene": "02",
+        "txt": "TO"
+      },
+      {
+        "w": "destroy",
+        "s": 5.47,
+        "e": 5.848,
+        "scene": "02",
+        "txt": "DESTROY"
+      }
+    ]
+  },
+  {
+    "start": 5.86,
+    "end": 6.979,
+    "scene": "02",
+    "words": [
+      {
+        "w": "a",
+        "s": 5.86,
+        "e": 5.918,
+        "scene": "02",
+        "txt": "A"
+      },
+      {
+        "w": "dock",
+        "s": 5.93,
+        "e": 6.154,
+        "scene": "02",
+        "txt": "DOCK"
+      },
+      {
+        "w": "gate",
+        "s": 6.166,
+        "e": 6.579,
+        "scene": "02",
+        "txt": "GATE"
+      }
+    ]
+  },
+  {
+    "start": 6.979,
+    "end": 7.633,
+    "scene": "03",
+    "words": [
+      {
+        "w": "On",
+        "s": 7.079,
+        "e": 7.291,
+        "scene": "03",
+        "txt": "ON"
+      },
+      {
+        "w": "March",
+        "s": 7.303,
+        "e": 7.621,
+        "scene": "03",
+        "txt": "MARCH"
+      }
+    ]
+  },
+  {
+    "start": 7.633,
+    "end": 8.883,
+    "scene": "03",
+    "words": [
+      {
+        "w": "twenty-eighth",
+        "s": 7.633,
+        "e": 8.235,
+        "scene": "03",
+        "txt": "TWENTY-EIGHTH"
+      },
+      {
+        "w": "nineteen",
+        "s": 8.4,
+        "e": 8.871,
+        "scene": "03",
+        "txt": "NINETEEN"
+      }
+    ]
+  },
+  {
+    "start": 8.883,
+    "end": 10.11,
+    "scene": "03",
+    "words": [
+      {
+        "w": "forty-two",
+        "s": 8.883,
+        "e": 9.52,
+        "scene": "03",
+        "txt": "FORTY-TWO"
+      },
+      {
+        "w": "Britain",
+        "s": 9.815,
+        "e": 10.098,
+        "scene": "03",
+        "txt": "BRITAIN"
+      }
+    ]
+  },
+  {
+    "start": 10.11,
+    "end": 11.407,
+    "scene": "03",
+    "words": [
+      {
+        "w": "targeted",
+        "s": 10.11,
+        "e": 10.581,
+        "scene": "03",
+        "txt": "TARGETED"
+      },
+      {
+        "w": "Saint-Nazaire",
+        "s": 10.593,
+        "e": 11.195,
+        "scene": "03",
+        "txt": "SAINT-NAZAIRE"
+      },
+      {
+        "w": "in",
+        "s": 11.206,
+        "e": 11.395,
+        "scene": "03",
+        "txt": "IN"
+      }
+    ]
+  },
+  {
+    "start": 11.407,
+    "end": 12.879999999999999,
+    "scene": "03",
+    "words": [
+      {
+        "w": "occupied",
+        "s": 11.407,
+        "e": 11.902,
+        "scene": "03",
+        "txt": "OCCUPIED"
+      },
+      {
+        "w": "France",
+        "s": 11.914,
+        "e": 12.48,
+        "scene": "03",
+        "txt": "FRANCE"
+      }
+    ]
+  },
+  {
+    "start": 12.88,
+    "end": 13.530000000000001,
+    "scene": "04",
+    "words": [
+      {
+        "w": "Its",
+        "s": 12.98,
+        "e": 13.204,
+        "scene": "04",
+        "txt": "ITS"
+      },
+      {
+        "w": "dry",
+        "s": 13.216,
+        "e": 13.475,
+        "scene": "04",
+        "txt": "DRY"
+      }
+    ]
+  },
+  {
+    "start": 13.530000000000001,
+    "end": 14.180000000000001,
+    "scene": "04",
+    "words": [
+      {
+        "w": "dock",
+        "s": 13.487,
+        "e": 13.77,
+        "scene": "04",
+        "txt": "DOCK"
+      },
+      {
+        "w": "was",
+        "s": 13.782,
+        "e": 13.9,
+        "scene": "04",
+        "txt": "WAS"
+      },
+      {
+        "w": "the",
+        "s": 13.912,
+        "e": 14.053,
+        "scene": "04",
+        "txt": "THE"
+      }
+    ]
+  },
+  {
+    "start": 14.180000000000001,
+    "end": 14.830000000000002,
+    "scene": "04",
+    "words": [
+      {
+        "w": "only",
+        "s": 14.065,
+        "e": 14.289,
+        "scene": "04",
+        "txt": "ONLY"
+      },
+      {
+        "w": "one",
+        "s": 14.301,
+        "e": 14.548,
+        "scene": "04",
+        "txt": "ONE"
+      },
+      {
+        "w": "on",
+        "s": 14.56,
+        "e": 14.678,
+        "scene": "04",
+        "txt": "ON"
+      }
+    ]
+  },
+  {
+    "start": 14.830000000000002,
+    "end": 15.563,
+    "scene": "04",
+    "words": [
+      {
+        "w": "France's",
+        "s": 14.69,
+        "e": 15.114,
+        "scene": "04",
+        "txt": "FRANCE'S"
+      },
+      {
+        "w": "Atlantic",
+        "s": 15.126,
+        "e": 15.551,
+        "scene": "04",
+        "txt": "ATLANTIC"
+      }
+    ]
+  },
+  {
+    "start": 15.563,
+    "end": 16.317,
+    "scene": "04",
+    "words": [
+      {
+        "w": "coast",
+        "s": 15.563,
+        "e": 15.869,
+        "scene": "04",
+        "txt": "COAST"
+      },
+      {
+        "w": "big",
+        "s": 15.881,
+        "e": 16.046,
+        "scene": "04",
+        "txt": "BIG"
+      },
+      {
+        "w": "enough",
+        "s": 16.058,
+        "e": 16.305,
+        "scene": "04",
+        "txt": "ENOUGH"
+      }
+    ]
+  },
+  {
+    "start": 16.317,
+    "end": 17.401,
+    "scene": "04",
+    "words": [
+      {
+        "w": "for",
+        "s": 16.317,
+        "e": 16.412,
+        "scene": "04",
+        "txt": "FOR"
+      },
+      {
+        "w": "Tirpitz",
+        "s": 16.423,
+        "e": 17.001,
+        "scene": "04",
+        "txt": "TIRPITZ"
+      }
+    ]
+  },
+  {
+    "start": 17.401,
+    "end": 18.48,
+    "scene": "05",
+    "words": [
+      {
+        "w": "Around",
+        "s": 17.501,
+        "e": 17.914,
+        "scene": "05",
+        "txt": "AROUND"
+      },
+      {
+        "w": "six",
+        "s": 17.926,
+        "e": 18.173,
+        "scene": "05",
+        "txt": "SIX"
+      },
+      {
+        "w": "hundred",
+        "s": 18.185,
+        "e": 18.468,
+        "scene": "05",
+        "txt": "HUNDRED"
+      }
+    ]
+  },
+  {
+    "start": 18.48,
+    "end": 19.27,
+    "scene": "05",
+    "words": [
+      {
+        "w": "commandos",
+        "s": 18.48,
+        "e": 19.128,
+        "scene": "05",
+        "txt": "COMMANDOS"
+      },
+      {
+        "w": "and",
+        "s": 19.14,
+        "e": 19.258,
+        "scene": "05",
+        "txt": "AND"
+      }
+    ]
+  },
+  {
+    "start": 19.27,
+    "end": 20.989,
+    "scene": "05",
+    "words": [
+      {
+        "w": "sailors",
+        "s": 19.27,
+        "e": 19.647,
+        "scene": "05",
+        "txt": "SAILORS"
+      },
+      {
+        "w": "attacked",
+        "s": 19.659,
+        "e": 20.178,
+        "scene": "05",
+        "txt": "ATTACKED"
+      }
+    ]
+  },
+  {
+    "start": 20.989,
+    "end": 22.097,
+    "scene": "05",
+    "words": [
+      {
+        "w": "Campbeltown",
+        "s": 20.989,
+        "e": 21.779,
+        "scene": "05",
+        "txt": "CAMPBELTOWN"
+      },
+      {
+        "w": "carried",
+        "s": 21.791,
+        "e": 22.085,
+        "scene": "05",
+        "txt": "CARRIED"
+      }
+    ]
+  },
+  {
+    "start": 22.097,
+    "end": 23.111,
+    "scene": "05",
+    "words": [
+      {
+        "w": "hidden",
+        "s": 22.097,
+        "e": 22.333,
+        "scene": "05",
+        "txt": "HIDDEN"
+      },
+      {
+        "w": "explosives",
+        "s": 22.345,
+        "e": 22.97,
+        "scene": "05",
+        "txt": "EXPLOSIVES"
+      },
+      {
+        "w": "and",
+        "s": 22.982,
+        "e": 23.1,
+        "scene": "05",
+        "txt": "AND"
+      }
+    ]
+  },
+  {
+    "start": 23.111,
+    "end": 24.467,
+    "scene": "05",
+    "words": [
+      {
+        "w": "delayed",
+        "s": 23.111,
+        "e": 23.501,
+        "scene": "05",
+        "txt": "DELAYED"
+      },
+      {
+        "w": "fuses",
+        "s": 23.512,
+        "e": 24.067,
+        "scene": "05",
+        "txt": "FUSES"
+      }
+    ]
+  },
+  {
+    "start": 24.467,
+    "end": 25.381,
+    "scene": "06",
+    "words": [
+      {
+        "w": "At",
+        "s": 24.567,
+        "e": 24.756,
+        "scene": "06",
+        "txt": "AT"
+      },
+      {
+        "w": "around",
+        "s": 24.767,
+        "e": 25.121,
+        "scene": "06",
+        "txt": "AROUND"
+      },
+      {
+        "w": "one",
+        "s": 25.133,
+        "e": 25.369,
+        "scene": "06",
+        "txt": "ONE"
+      }
+    ]
+  },
+  {
+    "start": 25.381,
+    "end": 26.572,
+    "scene": "06",
+    "words": [
+      {
+        "w": "thirty-four",
+        "s": 25.381,
+        "e": 25.817,
+        "scene": "06",
+        "txt": "THIRTY-FOUR"
+      },
+      {
+        "w": "that",
+        "s": 25.829,
+        "e": 26.006,
+        "scene": "06",
+        "txt": "THAT"
+      },
+      {
+        "w": "morning",
+        "s": 26.017,
+        "e": 26.348,
+        "scene": "06",
+        "txt": "MORNING"
+      }
+    ]
+  },
+  {
+    "start": 26.572,
+    "end": 27.433,
+    "scene": "06",
+    "words": [
+      {
+        "w": "the",
+        "s": 26.572,
+        "e": 26.666,
+        "scene": "06",
+        "txt": "THE"
+      },
+      {
+        "w": "destroyer",
+        "s": 26.678,
+        "e": 27.138,
+        "scene": "06",
+        "txt": "DESTROYER"
+      },
+      {
+        "w": "rammed",
+        "s": 27.15,
+        "e": 27.421,
+        "scene": "06",
+        "txt": "RAMMED"
+      }
+    ]
+  },
+  {
+    "start": 27.433,
+    "end": 28.293,
+    "scene": "06",
+    "words": [
+      {
+        "w": "the",
+        "s": 27.433,
+        "e": 27.503,
+        "scene": "06",
+        "txt": "THE"
+      },
+      {
+        "w": "gate",
+        "s": 27.515,
+        "e": 27.892,
+        "scene": "06",
+        "txt": "GATE"
+      }
+    ]
+  },
+  {
+    "start": 28.293,
+    "end": 29.195,
+    "scene": "07",
+    "words": [
+      {
+        "w": "Hours",
+        "s": 28.393,
+        "e": 28.735,
+        "scene": "07",
+        "txt": "HOURS"
+      },
+      {
+        "w": "later",
+        "s": 28.747,
+        "e": 29.006,
+        "scene": "07",
+        "txt": "LATER"
+      },
+      {
+        "w": "that",
+        "s": 29.018,
+        "e": 29.183,
+        "scene": "07",
+        "txt": "THAT"
+      }
+    ]
+  },
+  {
+    "start": 29.195,
+    "end": 30.044,
+    "scene": "07",
+    "words": [
+      {
+        "w": "same",
+        "s": 29.195,
+        "e": 29.442,
+        "scene": "07",
+        "txt": "SAME"
+      },
+      {
+        "w": "morning",
+        "s": 29.454,
+        "e": 29.796,
+        "scene": "07",
+        "txt": "MORNING"
+      }
+    ]
+  },
+  {
+    "start": 30.044,
+    "end": 31.176,
+    "scene": "07",
+    "words": [
+      {
+        "w": "Germans",
+        "s": 30.044,
+        "e": 30.48,
+        "scene": "07",
+        "txt": "GERMANS"
+      },
+      {
+        "w": "were",
+        "s": 30.492,
+        "e": 30.645,
+        "scene": "07",
+        "txt": "WERE"
+      },
+      {
+        "w": "inspecting",
+        "s": 30.657,
+        "e": 31.164,
+        "scene": "07",
+        "txt": "INSPECTING"
+      }
+    ]
+  },
+  {
+    "start": 31.176,
+    "end": 32.012,
+    "scene": "07",
+    "words": [
+      {
+        "w": "the",
+        "s": 31.176,
+        "e": 31.247,
+        "scene": "07",
+        "txt": "THE"
+      },
+      {
+        "w": "wreck",
+        "s": 31.259,
+        "e": 31.612,
+        "scene": "07",
+        "txt": "WRECK"
+      }
+    ]
+  },
+  {
+    "start": 32.012,
+    "end": 32.725,
+    "scene": "08",
+    "words": [
+      {
+        "w": "Then",
+        "s": 32.112,
+        "e": 32.324,
+        "scene": "08",
+        "txt": "THEN"
+      },
+      {
+        "w": "its",
+        "s": 32.336,
+        "e": 32.442,
+        "scene": "08",
+        "txt": "ITS"
+      },
+      {
+        "w": "hidden",
+        "s": 32.454,
+        "e": 32.713,
+        "scene": "08",
+        "txt": "HIDDEN"
+      }
+    ]
+  },
+  {
+    "start": 32.725,
+    "end": 34.139,
+    "scene": "08",
+    "words": [
+      {
+        "w": "charges",
+        "s": 32.725,
+        "e": 33.103,
+        "scene": "08",
+        "txt": "CHARGES"
+      },
+      {
+        "w": "exploded",
+        "s": 33.114,
+        "e": 33.739,
+        "scene": "08",
+        "txt": "EXPLODED"
+      }
+    ]
+  },
+  {
+    "start": 34.139,
+    "end": 34.814,
+    "scene": "09",
+    "words": [
+      {
+        "w": "The",
+        "s": 34.239,
+        "e": 34.416,
+        "scene": "09",
+        "txt": "THE"
+      },
+      {
+        "w": "dock",
+        "s": 34.428,
+        "e": 34.652,
+        "scene": "09",
+        "txt": "DOCK"
+      },
+      {
+        "w": "stayed",
+        "s": 34.664,
+        "e": 34.97,
+        "scene": "09",
+        "txt": "STAYED"
+      }
+    ]
+  },
+  {
+    "start": 34.814,
+    "end": 35.464,
+    "scene": "09",
+    "words": [
+      {
+        "w": "unusable",
+        "s": 34.982,
+        "e": 35.524,
+        "scene": "09",
+        "txt": "UNUSABLE"
+      },
+      {
+        "w": "for",
+        "s": 35.536,
+        "e": 35.63,
+        "scene": "09",
+        "txt": "FOR"
+      }
+    ]
+  },
+  {
+    "start": 35.464,
+    "end": 36.114,
+    "scene": "09",
+    "words": [
+      {
+        "w": "the",
+        "s": 35.642,
+        "e": 35.737,
+        "scene": "09",
+        "txt": "THE"
+      },
+      {
+        "w": "rest",
+        "s": 35.748,
+        "e": 36.02,
+        "scene": "09",
+        "txt": "REST"
+      },
+      {
+        "w": "of",
+        "s": 36.031,
+        "e": 36.102,
+        "scene": "09",
+        "txt": "OF"
+      }
+    ]
+  },
+  {
+    "start": 36.114,
+    "end": 36.974000000000004,
+    "scene": "09",
+    "words": [
+      {
+        "w": "the",
+        "s": 36.114,
+        "e": 36.185,
+        "scene": "09",
+        "txt": "THE"
+      },
+      {
+        "w": "war",
+        "s": 36.197,
+        "e": 36.574,
+        "scene": "09",
+        "txt": "WAR"
+      }
+    ]
+  },
+  {
+    "start": 36.974,
+    "end": 37.77,
+    "scene": "10",
+    "words": [
+      {
+        "w": "It",
+        "s": 37.074,
+        "e": 37.239,
+        "scene": "10",
+        "txt": "IT"
+      },
+      {
+        "w": "helped",
+        "s": 37.251,
+        "e": 37.522,
+        "scene": "10",
+        "txt": "HELPED"
+      },
+      {
+        "w": "keep",
+        "s": 37.534,
+        "e": 37.758,
+        "scene": "10",
+        "txt": "KEEP"
+      }
+    ]
+  },
+  {
+    "start": 37.77,
+    "end": 38.678,
+    "scene": "10",
+    "words": [
+      {
+        "w": "Tirpitz",
+        "s": 37.77,
+        "e": 38.135,
+        "scene": "10",
+        "txt": "TIRPITZ"
+      },
+      {
+        "w": "from",
+        "s": 38.147,
+        "e": 38.324,
+        "scene": "10",
+        "txt": "FROM"
+      },
+      {
+        "w": "raiding",
+        "s": 38.336,
+        "e": 38.666,
+        "scene": "10",
+        "txt": "RAIDING"
+      }
+    ]
+  },
+  {
+    "start": 38.678,
+    "end": 39.797,
+    "scene": "10",
+    "words": [
+      {
+        "w": "the",
+        "s": 38.678,
+        "e": 38.784,
+        "scene": "10",
+        "txt": "THE"
+      },
+      {
+        "w": "Atlantic",
+        "s": 38.796,
+        "e": 39.397,
+        "scene": "10",
+        "txt": "ATLANTIC"
+      }
+    ]
+  },
+  {
+    "start": 39.797,
+    "end": 40.662,
+    "scene": "11",
+    "words": [
+      {
+        "w": "Was",
+        "s": 39.897,
+        "e": 40.086,
+        "scene": "11",
+        "txt": "WAS"
+      },
+      {
+        "w": "destroying",
+        "s": 40.097,
+        "e": 40.569,
+        "scene": "11",
+        "txt": "DESTROYING"
+      },
+      {
+        "w": "that",
+        "s": 40.581,
+        "e": 40.746,
+        "scene": "11",
+        "txt": "THAT"
+      }
+    ]
+  },
+  {
+    "start": 40.662,
+    "end": 41.312,
+    "scene": "11",
+    "words": [
+      {
+        "w": "dock",
+        "s": 40.758,
+        "e": 40.946,
+        "scene": "11",
+        "txt": "DOCK"
+      },
+      {
+        "w": "worth",
+        "s": 40.958,
+        "e": 41.218,
+        "scene": "11",
+        "txt": "WORTH"
+      },
+      {
+        "w": "the",
+        "s": 41.23,
+        "e": 41.3,
+        "scene": "11",
+        "txt": "THE"
+      }
+    ]
+  },
+  {
+    "start": 41.312,
+    "end": 42.055,
+    "scene": "11",
+    "words": [
+      {
+        "w": "cost",
+        "s": 41.312,
+        "e": 41.619,
+        "scene": "11",
+        "txt": "COST"
+      },
+      {
+        "w": "in",
+        "s": 41.631,
+        "e": 41.725,
+        "scene": "11",
+        "txt": "IN"
+      },
+      {
+        "w": "ships",
+        "s": 41.737,
+        "e": 42.043,
+        "scene": "11",
+        "txt": "SHIPS"
+      }
+    ]
+  },
+  {
+    "start": 42.055,
+    "end": 42.841,
+    "scene": "11",
+    "words": [
+      {
+        "w": "and",
+        "s": 42.055,
+        "e": 42.173,
+        "scene": "11",
+        "txt": "AND"
+      },
+      {
+        "w": "lives",
+        "s": 42.185,
+        "e": 42.621,
+        "scene": "11",
+        "txt": "LIVES"
+      }
+    ]
+  }
+]

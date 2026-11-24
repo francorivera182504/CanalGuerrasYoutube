@@ -1,0 +1,59 @@
+INFORME FINAL - WARMAP STICK VIDEO 6 (CRIMEA)
+
+Render completado: listo, salida 0.
+Inicio: 2026-11-23T14:26:47.310579-05:00
+Fin: 2026-11-23T15:07:28.519883-05:00
+
+Cambios realizados en build.py:
+1. Carpeta temporal creada dentro del proyecto con os.makedirs, heredando sus permisos, en lugar de tempfile.mkdtemp.
+2. Alternativa ante PermissionError al iniciar multiprocessing.Pool: siete procesos Python independientes con trabajos en archivos JSON; se comprueban sus codigos de salida y se mantiene el orden de los segmentos.
+Motivo: WinError 5 en los canales IPC de Pool y PermissionError al escribir en las carpetas de tempfile.
+Diff completo: E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review\build_final.diff
+Copia original: E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_build_before_final.py
+No se corrigieron problemas visuales ni se renormalizo el audio de la copia de subida.
+
+Comprobaciones ffprobe/ffmpeg:
+Original: E:\Historias TIK\WarMap Stick\Render\Video6_Crimea.mp4
+Duracion: 405.373000 s; 1920x1080; 30/1 fps; 12161 fotogramas.
+Video: h264, yuv420p; audio: aac, 48000 Hz, 1 canal.
+Sonoridad integrada ebur128: -15.1 LUFS.
+Tamano: 123245265 bytes (123.245 MB; 117.536 MiB).
+Decodificacion completa: salida 0, log de errores vacio.
+Faststart: confirmado, moov antes de mdat.
+
+Subida: E:\Historias TIK\WarMap Stick\Render\Video6_Crimea_upload.mp4
+Duracion: 405.373000 s; 1920x1080; 30/1 fps; 12161 fotogramas.
+Video: h264, yuv420p; audio: aac, 48000 Hz, 1 canal.
+Sonoridad integrada ebur128: -15.1 LUFS.
+Tamano: 109343021 bytes (109.343 MB; 104.278 MiB).
+Decodificacion completa: salida 0, log de errores vacio.
+Faststart: confirmado, moov antes de mdat.
+
+La sonoridad de ambos archivos queda 0,1 LU por debajo del limite inferior de -15 LUFS (objetivo -14 +/-1).
+Copia de subida: libx264, preset slow, CRF 20, yuv420p, AAC configurado a 192k, movflags +faststart; sin filtro de renormalizacion.
+
+Revision visual:
+Inspección visual de las cinco hojas de contacto (60 muestras), con ampliación de los JPG sospechosos. No es una revisión continua de todos los fotogramas.
+60 JPG de 960x540: t=1,9,17,...,401 s, mas 0.5,1.2,1.8,2.6,3.4,328.7,330.0,347.5,348.5 s.
+5 hojas de contacto, 4x3, 12 fotogramas por hoja, con timestamp en cada casilla:
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review\sheet_01.jpg
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review\sheet_02.jpg
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review\sheet_03.jpg
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review\sheet_04.jpg
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review\sheet_05.jpg
+
+Fotogramas sospechosos:
+t=1.2, 329, 348.5 s [menor]: El comienzo de ANIMATED RECONSTRUCTION queda recortado por el borde izquierdo.
+t=57 s [revisar]: Franja vertical muy oscura en el extremo izquierdo y unión abrupta del fondo del mapa, aproximadamente al 5 % del ancho.
+t=65 s [revisar]: El subtítulo DARDANELLES WHICH TURKEY tapa casi por completo la etiqueta MEDITERRANEAN.
+t=89 s [revisar]: El subtítulo ITS NEW NAVAL BASE se superpone al sticker del velero y oculta su zona central.
+t=185 s [revisar]: El subtítulo CRIMEA'S PARLIAMENT AND tapa gran parte del soldado situado en la zona inferior izquierda de Crimea.
+t=241, 249, 257 s [posible problema visual]: Las costas del fondo 3D aparecen como bandas negras o marrones rectas y cuñas geométricas muy visibles en la parte superior y el horizonte. Aspecto sospechoso para revisión; no es un fotograma negro.
+t=361 s [revisar]: El subtítulo THROUGH OCCUPIED UKRAINE oculta casi todo el camión situado al final de la ruta, dentro de Crimea.
+t=369 s [revisar]: El tren queda parcialmente detrás del subtítulo SEVASTOPOL FUEL; otro sticker de suministros, con parte superior roja y blanca, sale cortado por el borde inferior.
+t=25, 385 s [menor]: Los subtítulos rozan o cubren parcialmente los zapatos del personaje grande. Solapamiento leve; la cara y el cuerpo siguen legibles.
+
+En las 60 muestras no se observaron fotogramas completamente negros ni circulos blancos de placeholder con texto.
+Datos completos: E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review\verification.json
+Observaciones visuales: E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review\visual_review.json
+Registro del render: E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_render_final.log

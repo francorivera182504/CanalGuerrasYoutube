@@ -1,0 +1,53 @@
+{
+  "scope": "Inspección visual de las cinco hojas de contacto (60 muestras), con ampliación de los JPG sospechosos. No es una revisión continua de todos los fotogramas.",
+  "fully_black_frames_observed": false,
+  "missing_sticker_placeholder_circles_observed": false,
+  "visual_fixes_applied": false,
+  "issues": [
+    {
+      "seconds": [1.2, 329.0, 348.5],
+      "description": "El comienzo de ANIMATED RECONSTRUCTION queda recortado por el borde izquierdo.",
+      "severity": "menor"
+    },
+    {
+      "seconds": [57.0],
+      "description": "Franja vertical muy oscura en el extremo izquierdo y unión abrupta del fondo del mapa, aproximadamente al 5 % del ancho.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [65.0],
+      "description": "El subtítulo DARDANELLES WHICH TURKEY tapa casi por completo la etiqueta MEDITERRANEAN.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [89.0],
+      "description": "El subtítulo ITS NEW NAVAL BASE se superpone al sticker del velero y oculta su zona central.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [185.0],
+      "description": "El subtítulo CRIMEA'S PARLIAMENT AND tapa gran parte del soldado situado en la zona inferior izquierda de Crimea.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [241.0, 249.0, 257.0],
+      "description": "Las costas del fondo 3D aparecen como bandas negras o marrones rectas y cuñas geométricas muy visibles en la parte superior y el horizonte. Aspecto sospechoso para revisión; no es un fotograma negro.",
+      "severity": "posible problema visual"
+    },
+    {
+      "seconds": [361.0],
+      "description": "El subtítulo THROUGH OCCUPIED UKRAINE oculta casi todo el camión situado al final de la ruta, dentro de Crimea.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [369.0],
+      "description": "El tren queda parcialmente detrás del subtítulo SEVASTOPOL FUEL; otro sticker de suministros, con parte superior roja y blanca, sale cortado por el borde inferior.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [25.0, 385.0],
+      "description": "Los subtítulos rozan o cubren parcialmente los zapatos del personaje grande. Solapamiento leve; la cara y el cuerpo siguen legibles.",
+      "severity": "menor"
+    }
+  ]
+}

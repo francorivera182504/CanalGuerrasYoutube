@@ -3,6 +3,10 @@
     "tubealfred": {
       "type": "http",
       "url": "https://mcp.tubealfred.com/"
+    },
+    "composio": {
+      "type": "http",
+      "url": "https://connect.composio.dev/mcp"
     }
   }
 }

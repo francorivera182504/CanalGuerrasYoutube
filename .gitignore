@@ -14,3 +14,36 @@ Thumbs.db
 
 # Configuración local de Claude
 .claude/
+
+# Skills del proyecto sí se versionan (resto de .claude/ queda local)
+!.claude/
+.claude/*
+!.claude/skills/
+
+# Datos descargables, temporales y salidas intermedias
+tmp/
+Recursos/
+graphify-out/cache/
+**/render3d/
+**/_encode/
+**/_review/*.jpg
+**/_review/*.png
+**/_review_v2/*.jpg
+**/_review_v2/*.png
+Guiones/Video 6 - Crimea/v6_*/
+Guiones/**/*.png
+Guiones/**/*.jpg
+Miniatura/**/_work/*.png
+Miniatura/**/_work/*.jpg
+*.log
+*.err
+*.pyc
+*.npy
+*.zip
+*.mbtree
+*.diff
+_*_sent.txt
+*.blend
+*.blend1
+**/_prep/
+graphify-out/

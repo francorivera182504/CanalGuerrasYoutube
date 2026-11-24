@@ -1,0 +1,54 @@
+S04 - SAINT-NAZAIRE | ENTREGA PARA REVISION DE CLAUDE
+
+1080x1920, 30 fps, 1286 cuadros, 42.866667 s.
+Timeline aprobado: 42.841 s. Diferencia: +25.667 ms, redondeo a un cuadro completo.
+Guion, timeline, voz y 22 archivos de audio originales: sin cambios (25 hashes SHA-256).
+
+VIDEOS (MB decimal)
+E:\Historias TIK\WarMap Stick\Render\Shorts\S04_Saint_Nazaire.mp4
+14512663 bytes / 14.513 MB / -14.03 LUFS / -1.60 dBTP
+E:\Historias TIK\WarMap Stick\Render\Shorts\S04_upload.mp4
+8844843 bytes / 8.845 MB / -14.07 LUFS / -1.45 dBTP
+Ambos H.264 yuv420p, AAC 48 kHz, faststart. Upload: dos pasadas H.264, AAC 128k configurado, menos de 10 MB.
+Audio: control de picos con look-ahead y loudnorm en dos pasadas; cifras LUFS medidas sobre el AAC final (campo input_i).
+
+FUENTES Y ACTIVOS CREADOS EN ESTA CARPETA
+blender_nazaire.py, render3d.sh, render_all_3d.py: casco, dos chimeneas inclinadas, dique/compuerta, muelles, gruas, agua, foco nocturno, deformacion, FX volumetricos y particulas.
+render3d/hook/f_0001.png ... f_0113.png
+render3d/ram/f_0001.png ... f_0115.png
+render3d/blast/f_0001.png ... f_0064.png
+render3d/night/f_0001.png (placa adicional). Total: 293 PNG finales 1080x1920, mas pruebas still.
+mapa.py, _prep/map/: Natural Earth NE1, mascaras nacionales y bordes neon. Ruta Falmouth alrededor de Bretana por mar.
+assets/: ocho stickers originales blancos 1024x1024. _prep/cut_*.png: recortes con borde blanco.
+assets/prompts.json: prompts del generador integrado image_gen. assets/source/: originales antes del ajuste a 1024x1024.
+build.py: 11 escenas, titulares aprobados grandes, rebobinado, etalonaje a noche, textos en area segura, 116 palabras en 46 bloques de 2-3 palabras, minimo 0.65 s.
+sound.py, sfx.json, sfx.wav: 64 eventos sintetizados y pulso de tension. master_audio.py: normalizacion final.
+review.py, final_audit.py, render_report.json, subtitles_blocks.json, approved_inputs_sha256.json.
+
+REVISION VISUAL
+68 fotogramas extraidos DEL MP4 final; incluye todos los instantes solicitados, cada segundo desde 6 s y fotogramas adicionales de impactos/transicion.
+Hojas 4x3 con timestamps: _review/sheet_01.jpg, sheet_02.jpg, sheet_03.jpg, sheet_04.jpg, sheet_05.jpg, sheet_06.jpg.
+_review/upload_quality.jpg: cuatro fotogramas de la copia de subida.
+_review/times.json: tiempos exactos. _review/decode_checks.log: decodificacion completa.
+Sin errores de decodificacion ni cuadros negros detectados en la version final.
+El detector global de baja actividad marca 8.90-9.70 s y 11.90-12.90 s del mapa: falsos positivos por la pequena fraccion de pantalla que se anima. Los barcos y la flecha si se desplazan. La comprobacion sobre el area de movimiento (crop 600x600, x=250,y=800) no detecta congelaciones; ver _review/map_motion_checks.log.
+Sin texto cortado, placeholders ni subtitulos sobre el barco/impacto en los fotogramas inspeccionados.
+Sin gore, cuerpos, insignias reales ni esvasticas observados.
+
+PUNTOS VISUALES PARA MIRAR CON ATENCION (no bloqueantes)
+8.90-9.70 s y 11.90-12.90 s: avisos de baja actividad del detector global; movimiento real confirmado con la comprobacion del area de barcos y flecha.
+0.90-1.40 s y 33.20-33.80 s: bola de fuego muy luminosa y de aspecto estilizado; valorar el acabado frente al estilo del canal.
+6.85 s: el final del rebobinado es deliberadamente oscuro por el paso a noche.
+24.50-28.29 s: plano nocturno de contraste bajo, barco y compuerta legibles; valorar en pantalla de movil.
+28.29-28.95 s y 39.80-40.25 s: personajes entran desde la izquierda y se ven parcialmente cortados durante la entrada, de forma intencional.
+No quedan fallos tecnicos bloqueantes observados. La revision editorial de Claude no forma parte de esta validacion y sigue pendiente.
+
+REPRODUCCION
+python mapa.py --prep  (solo si faltan mapas preparados)
+python build.py --prep
+render3d.sh  (si se necesitan regenerar las secuencias Blender)
+python build.py --frame 0 0.2 0.8 1.2 27.5 33.5
+python build.py
+python review.py
+python final_audit.py
+Los renders largos se ejecutaron ocultos en segundo plano y se sondearon por logs.

@@ -1,0 +1,37 @@
+Video 6 - Crimea: revisi?n v2 completada
+
+Cambios exclusivos en build.py:
+- s06a: View(37.0, 50.5, 34).
+- small_tag: centro x=300; se conserva y.
+- Mux: loudnorm en dos pasadas, I=-14, TP=-1.5, LRA=11; measured_I/TP/LRA/thresh, offset y linear=true. Se refina el offset de la segunda pasada cuando el limitador obliga a modo din?mico (cuatro aplicaciones en esta ejecuci?n).
+
+Render completo: c?digo 0; 12 161 fotogramas. build.py conserva el mismo SHA-256 antes y despu?s del render.
+Ambos MP4: 405.373 s (06:45.373), 1920x1080, 30 fps, H.264/yuv420p, AAC mono 48 kHz; decodificaci?n completa sin errores; faststart verificado.
+M?ster: 123014568 bytes (123.01 MB), -14.4 LUFS.
+Copia de subida: 109549618 bytes (109.55 MB), -14.4 LUFS; x264 slow, CRF 20; AAC copiado sin renormalizar.
+
+Prueba python build.py --frame 55 56 57 58 completada y revisada: sin franjas negras/vac?as en los bordes. Confirmado adem?s en muestras del MP4 final.
+R?tulo completo en 1.2, 329 y 348.5 s.
+Auditor?a: 1 227 archivos de entrada protegidos sin cambios; solo tres bloques de diferencias en build.py.
+
+Hojas: 60 muestras, JPG 960x540, una cada 8 s desde t=1 y todos los tiempos especiales solicitados; cinco hojas 4x3 con 12 muestras por hoja.
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review_v2\sheet_01.jpg
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review_v2\sheet_02.jpg
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review_v2\sheet_03.jpg
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review_v2\sheet_04.jpg
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review_v2\sheet_05.jpg
+E:\Historias TIK\WarMap Stick\Guiones\Video 6 - Crimea\_review_v2\fix_edges_sheet.jpg
+
+Inspecci?n de las cinco hojas de contacto (60 muestras del MP4), ampliaci?n de fotogramas sospechosos y cuatro muestras adicionales del MP4 a 55, 56, 57 y 58 s. Tambi?n se revisaron las pruebas de build.py --frame. No es una revisi?n visual continua de todos los fotogramas.
+
+Fotogramas sospechosos (solo registrados):
+58 s: El subt?tulo WINTER ICE SEVASTOPOL tapa casi por completo la etiqueta ICE-FREE durante el encuadre inicial.
+65 s: El subtítulo DARDANELLES WHICH TURKEY tapa casi por completo la etiqueta MEDITERRANEAN.
+89 s: El subtítulo ITS NEW NAVAL BASE se superpone al sticker del velero y oculta su zona central.
+185 s: El subtítulo CRIMEA'S PARLIAMENT AND tapa gran parte del soldado situado en la zona inferior izquierda de Crimea.
+241 s, 249 s, 257 s: Las costas del fondo 3D aparecen como bandas negras o marrones rectas y cuñas geométricas muy visibles en la parte superior y el horizonte. Aspecto sospechoso para revisión; no es un fotograma negro.
+361 s: El subtítulo THROUGH OCCUPIED UKRAINE oculta casi todo el camión situado al final de la ruta, dentro de Crimea.
+369 s: El tren queda parcialmente detrás del subtítulo SEVASTOPOL FUEL; otro sticker de suministros, con parte superior roja y blanca, sale cortado por el borde inferior.
+25 s, 385 s: Los subtítulos rozan o cubren parcialmente los zapatos del personaje grande. Solapamiento leve; la cara y el cuerpo siguen legibles.
+
+No se observaron fotogramas completamente negros ni placeholders de stickers en las muestras revisadas.

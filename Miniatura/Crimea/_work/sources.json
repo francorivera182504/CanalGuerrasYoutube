@@ -1,0 +1,47 @@
+{
+  "A": {
+    "file": "Crimea_A_WHY_THIS_BRIDGE.jpg",
+    "source": "Guiones/Video 6 - Crimea/render3d/hook/f_0052.png",
+    "method": "Real source render, 0.7x scale at (+230,-36), left gradient, PIL text and red arrow",
+    "arrow_target": [
+      1030,
+      490
+    ],
+    "arrow_subject": "Water splash where the foreground arch fell"
+  },
+  "B": {
+    "file": "Crimea_B_WORTH_THE_COST.jpg",
+    "source": "Render/Video6_Crimea.mp4 @ 00:06:23.000",
+    "background_crop": [
+      0,
+      170,
+      1040,
+      755
+    ],
+    "sticker": "Guiones/Video 6 - Crimea/_prep/cut_el_general.png",
+    "crimea_geometry": "Guiones/Video 6 - Crimea/_prep/geo.json"
+  },
+  "C": {
+    "file": "Crimea_C_NOT_CUT_OFF.jpg",
+    "source": "Render/Video6_Crimea.mp4 @ 00:05:52.000",
+    "crop": [
+      200,
+      170,
+      1800,
+      1070
+    ],
+    "subtitle_restoration": "Exact original region_scene map at View(36.0,46.6,10.0) underlay, band (350,922,1540,1002)",
+    "bridge_icon": "PIL graphic at actual Kerch map coordinates"
+  },
+  "spec": {
+    "size": [
+      1280,
+      720
+    ],
+    "format": "JPEG",
+    "text_font": "Impact",
+    "yellow": "#FFD628",
+    "uploads": false,
+    "generative_ai": false
+  }
+}

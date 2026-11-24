@@ -1,0 +1,85 @@
+{
+  "scope": "Inspecci?n de las cinco hojas de contacto (60 muestras del MP4), ampliaci?n de fotogramas sospechosos y cuatro muestras adicionales del MP4 a 55, 56, 57 y 58 s. Tambi?n se revisaron las pruebas de build.py --frame. No es una revisi?n visual continua de todos los fotogramas.",
+  "fully_black_frames_observed": false,
+  "missing_sticker_placeholder_circles_observed": false,
+  "fixed_map_edges": {
+    "seconds": [
+      55,
+      56,
+      57,
+      58
+    ],
+    "black_or_empty_strips_observed": false,
+    "sheet": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Video 6 - Crimea\\_review_v2\\fix_edges_sheet.jpg"
+  },
+  "fixed_tag": {
+    "previously_clipped_seconds": [
+      1.2,
+      329.0,
+      348.5
+    ],
+    "now_fully_visible": true
+  },
+  "additional_visual_fixes_applied": false,
+  "issues": [
+    {
+      "seconds": [
+        58.0
+      ],
+      "description": "El subt?tulo WINTER ICE SEVASTOPOL tapa casi por completo la etiqueta ICE-FREE durante el encuadre inicial.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [
+        65.0
+      ],
+      "description": "El subtítulo DARDANELLES WHICH TURKEY tapa casi por completo la etiqueta MEDITERRANEAN.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [
+        89.0
+      ],
+      "description": "El subtítulo ITS NEW NAVAL BASE se superpone al sticker del velero y oculta su zona central.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [
+        185.0
+      ],
+      "description": "El subtítulo CRIMEA'S PARLIAMENT AND tapa gran parte del soldado situado en la zona inferior izquierda de Crimea.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [
+        241.0,
+        249.0,
+        257.0
+      ],
+      "description": "Las costas del fondo 3D aparecen como bandas negras o marrones rectas y cuñas geométricas muy visibles en la parte superior y el horizonte. Aspecto sospechoso para revisión; no es un fotograma negro.",
+      "severity": "posible problema visual"
+    },
+    {
+      "seconds": [
+        361.0
+      ],
+      "description": "El subtítulo THROUGH OCCUPIED UKRAINE oculta casi todo el camión situado al final de la ruta, dentro de Crimea.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [
+        369.0
+      ],
+      "description": "El tren queda parcialmente detrás del subtítulo SEVASTOPOL FUEL; otro sticker de suministros, con parte superior roja y blanca, sale cortado por el borde inferior.",
+      "severity": "revisar"
+    },
+    {
+      "seconds": [
+        25.0,
+        385.0
+      ],
+      "description": "Los subtítulos rozan o cubren parcialmente los zapatos del personaje grande. Solapamiento leve; la cara y el cuerpo siguen legibles.",
+      "severity": "menor"
+    }
+  ]
+}

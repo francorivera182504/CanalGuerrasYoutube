@@ -1,0 +1,37 @@
+Codex: guion final del largo de Crimea (ángulo A, Hook 1 aprobado por Franco, estilo mixto). Revisa SOLO exactitud y riesgo, rápido. ~720 palabras (~5 min con Ryan +4 %). Formato de respuesta:
+- Por escena con problema: ID → frase problemática → reemplazo exacto en inglés (mismo largo aprox.).
+- Si todo está bien en una escena, no la menciones.
+- Al final: "OK PARA VOZ" si no quedan problemas graves.
+Puntos a verificar especialmente: escena 03 (fechas 17-nov y tren), 08 (Catalina 1783 + Sevastopol fundada como base), 09 (asedio ~11 meses), 10 ("entire Crimean Tatar people"), 12, 14 (referéndum rechazado por la mayoría), 17 (19 km, 2018/2019), 20 (corredor + canal reabierto 2022), 21 (Kakhovka 2023 sin atribuir culpa), 23–25 (ataques 2022, 2023, 2025), 27–28 (trenes parcialmente, restricciones de combustible en Sevastopol "were reported").
+
+GUION (ID [titular] texto):
+01 [ROAD ARCH DOWN] Ukraine just dropped the main road arch of Russia's bridge to Crimea.
+02 [WHY THIS BRIDGE?] Russia still has another route. So why does this one bridge matter so much?
+03 [17 NOV 2026] On November seventeenth, the road section over the Kerch Strait collapsed into the water. Days later, rail traffic was halted, then partly resumed.
+04 [THE PARADOX] The answer is a paradox. Crimea gives Russia huge military value, but keeping it supplied depends on a few vulnerable links.
+05 [THE PENINSULA] Crimea is a peninsula between the Black Sea and the Sea of Azov. Narrow strips of land, like the Perekop Isthmus, link it to mainland Ukraine.
+06 [SEVASTOPOL] In the southwest sits Sevastopol: a deep, sheltered harbour that gives a navy a base in the middle of the Black Sea.
+07 [CRIMEAN KHANATE] Crimea was not always Russian. For centuries it was home to the Crimean Tatars and their Khanate.
+08 [1783] In seventeen eighty-three, the Russian Empire under Catherine the Great annexed it, and built Sevastopol as its new naval base.
+09 [SAME PENINSULA] Seventy years later, Britain, France and the Ottoman Empire landed here in the Crimean War. They besieged Sevastopol for almost a year, and Russia lost the war.
+10 [1944] In nineteen forty-four, Stalin deported the entire Crimean Tatar people to Central Asia.
+11 [1954] Then, in nineteen fifty-four, Soviet leaders transferred Crimea from the Russian republic to the Ukrainian republic. Inside the Soviet Union, it was just an internal line.
+12 [1991] But in nineteen ninety-one, the Soviet Union collapsed. That internal line became an international border, and Crimea stayed in independent Ukraine.
+13 [THE LEASE] Russia kept its Black Sea Fleet in Sevastopol by leasing the naval base from Ukraine.
+14 [2014] Then, in twenty fourteen, soldiers without insignia seized Crimea's parliament and key sites. Within weeks, Russia annexed the peninsula after a referendum most of the world rejected.
+15 [WATER CUT] Ukraine answered by blocking the North Crimean Canal. Before then, it had supplied most of Crimea's water, mainly for farming.
+16 [AN ISLAND] Now Russia had a problem. It held Crimea, but had no land route to it. Supplies depended on ferries across the Kerch Strait.
+17 [19 KM] So Russia built a bridge, about nineteen kilometres long. The road opened in twenty eighteen, and the railway in twenty nineteen.
+18 [ROAD + RAIL] It is really two parallel bridges: one for cars and trucks, and one for trains carrying fuel, equipment and troops.
+19 [2022: INVASION] In February twenty twenty-two, Russia launched its full-scale invasion. Crimea became a launch pad for the attack on southern Ukraine.
+20 [LAND CORRIDOR] Russian forces seized a land corridor along the Sea of Azov, giving Russia a road to Crimea, and reopened the canal.
+21 [2023] A year later, the Kakhovka dam was destroyed, draining the reservoir that fed the canal.
+22 [THE TARGET] Through all of this, the bridge remained Russia's most direct link to Crimea. And that made it a target.
+23 [OCT 2022] In October twenty twenty-two, a truck bomb collapsed parts of the road bridge and set a fuel train on fire.
+24 [JUL 2023] In July twenty twenty-three, sea drones struck again and damaged a road span.
+25 [JUN 2025] In twenty twenty-five, Ukraine's security service said it hit the bridge's underwater supports with explosives. Russia reopened it within hours.
+26 [NOV 2026] And this November, a new wave of strikes brought down the main road arch.
+27 [CUT OFF?] So is Crimea cut off? Not completely. Trucks can still use the land corridor, and trains are partly running.
+28 [SLOWER, RISKIER] But that corridor runs through occupied Ukraine, much closer to the front line. Every detour makes supply slower and riskier. In Sevastopol, fuel restrictions were reported.
+29 [THE PRICE] That is the paradox of Crimea. It is a naval base, a symbol and a launch pad, but it depends on supplies from outside.
+30 [YOUR TAKE?] Can Russia keep Crimea supplied without its bridge? Tell me in the comments, and watch our Russia–Ukraine war guide next.

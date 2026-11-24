@@ -1,0 +1,42 @@
+{
+  "approved_total_s": 42.841,
+  "encoded_duration_s": 42.86666666666667,
+  "frame_count": 1286,
+  "format": "1080x1920 30 fps",
+  "master": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S04_Saint_Nazaire.mp4",
+    "bytes": 14365812,
+    "loudness": {
+      "input_i": "-14.03",
+      "input_tp": "-1.60",
+      "input_lra": "1.90",
+      "input_thresh": "-24.24",
+      "output_i": "-13.86",
+      "output_tp": "-1.50",
+      "output_lra": "1.80",
+      "output_thresh": "-24.07",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.14"
+    },
+    "integrated_lufs": -14.03,
+    "true_peak_dbtp": -1.6
+  },
+  "upload": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S04_upload.mp4",
+    "bytes": 8886024,
+    "loudness": {
+      "input_i": "-14.07",
+      "input_tp": "-1.45",
+      "input_lra": "1.90",
+      "input_thresh": "-24.28",
+      "output_i": "-13.85",
+      "output_tp": "-1.50",
+      "output_lra": "1.80",
+      "output_thresh": "-24.06",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.15"
+    },
+    "integrated_lufs": -14.07,
+    "true_peak_dbtp": -1.45
+  }
+}

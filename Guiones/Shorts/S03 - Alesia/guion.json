@@ -1,0 +1,17 @@
+{
+ "title": "Why Caesar Built a Wall Around His Own Army",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {"id": "01", "style": "MAP", "headline": "2 WALLS", "text": "Julius Caesar surrounded his own army with a second wall."},
+  {"id": "02", "style": "MAP", "headline": "2 WALLS", "text": "Who was he keeping out?"},
+  {"id": "03", "style": "MAP", "headline": "52 BC", "text": "In fifty-two BC, Caesar trapped Vercingetorix and his Gallic army inside Alesia."},
+  {"id": "04", "style": "3D", "headline": "INNER LINE", "text": "His first line of defences cut off their supplies."},
+  {"id": "05", "style": "3D", "headline": "≈15 KM", "text": "It stretched roughly fifteen kilometres around the hilltop."},
+  {"id": "06", "style": "CHAR", "headline": "RELIEF ARMY", "text": "But another Gallic army was coming to break the siege."},
+  {"id": "07", "style": "MAP", "headline": "OUTER LINE ≈21 KM", "text": "So the Romans built an outer line, roughly twenty-one kilometres long, facing away from the town."},
+  {"id": "08", "style": "CHAR", "headline": "BOTH SIDES", "text": "Now they had to defend themselves against attacks from both sides."},
+  {"id": "09", "style": "CHAR", "headline": "DITCHES & TOWERS", "text": "Ditches, earthworks and wooden towers helped them hold their positions."},
+  {"id": "10", "style": "MAP", "headline": "SURRENDER", "text": "The relief army failed to break through, and Vercingetorix surrendered."},
+  {"id": "11", "style": "MAP", "headline": "TRAPPED & PROTECTED", "text": "Caesar's walls trapped one army and protected his own. Genius or desperation? Tell me below."}
+ ]
+}
