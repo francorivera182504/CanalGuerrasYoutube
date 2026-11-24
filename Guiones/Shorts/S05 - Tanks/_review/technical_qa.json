@@ -1,0 +1,52 @@
+{
+  "approved_inputs_unchanged": true,
+  "subtitle_blocks": 51,
+  "shortest_subtitle_s": 0.6499999999999986,
+  "crushes_sync_s": 1.15,
+  "frames_3d": {
+    "hook": 165,
+    "cross": 122,
+    "stall": 71,
+    "crew": 103,
+    "loop": 180
+  },
+  "loop_raw_first_last_identical": true,
+  "format": "1080x1920, 30 fps, 1456 frames",
+  "duration_s": 48.53333333333333,
+  "master": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S05_Tanks.mp4",
+    "bytes": 22010485,
+    "lufs": -14.09,
+    "true_peak_dbtp": -1.31,
+    "nominal_fps": "30/1",
+    "average_fps": 30.000201216150412,
+    "probe_duration_s": 48.533333,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p"
+  },
+  "upload": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S05_upload.mp4",
+    "bytes": 9584895,
+    "lufs": -14.11,
+    "true_peak_dbtp": -1.02,
+    "nominal_fps": "30/1",
+    "average_fps": 30.0,
+    "probe_duration_s": 48.533333,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p"
+  },
+  "black_detection_events": [],
+  "freeze_detection_events": [],
+  "encoded_loop_mean_abs_rgb_difference": 1.3613213734567902,
+  "contact_sheets": [
+    "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\sheet_01.jpg",
+    "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\sheet_02.jpg",
+    "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\sheet_03.jpg",
+    "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\sheet_04.jpg",
+    "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\sheet_05.jpg",
+    "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\sheet_06.jpg",
+    "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\sheet_07.jpg",
+    "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\sheet_08.jpg"
+  ],
+  "source_timeline_note": "Last scene metadata ends 48.706s; authoritative total and voice end at 48.526s. Kept inputs intact and encoded 48.533333s."
+}

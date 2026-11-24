@@ -1,0 +1,42 @@
+{
+  "approved_total_s": 48.526,
+  "encoded_duration_s": 48.53333333333333,
+  "frame_count": 1456,
+  "format": "1080x1920 30 fps",
+  "master": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S05_Tanks.mp4",
+    "bytes": 22010485,
+    "loudness": {
+      "input_i": "-14.09",
+      "input_tp": "-1.31",
+      "input_lra": "2.30",
+      "input_thresh": "-24.69",
+      "output_i": "-14.12",
+      "output_tp": "-1.50",
+      "output_lra": "1.90",
+      "output_thresh": "-24.74",
+      "normalization_type": "dynamic",
+      "target_offset": "0.12"
+    },
+    "integrated_lufs": -14.09,
+    "true_peak_dbtp": -1.31
+  },
+  "upload": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S05_upload.mp4",
+    "bytes": 9584895,
+    "loudness": {
+      "input_i": "-14.11",
+      "input_tp": "-1.02",
+      "input_lra": "2.40",
+      "input_thresh": "-24.72",
+      "output_i": "-14.16",
+      "output_tp": "-1.50",
+      "output_lra": "1.90",
+      "output_thresh": "-24.75",
+      "normalization_type": "dynamic",
+      "target_offset": "0.16"
+    },
+    "integrated_lufs": -14.11,
+    "true_peak_dbtp": -1.02
+  }
+}

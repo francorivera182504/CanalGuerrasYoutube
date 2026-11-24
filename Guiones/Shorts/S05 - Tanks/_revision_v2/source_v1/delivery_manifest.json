@@ -1,0 +1,69 @@
+{
+  "master": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S05_Tanks.mp4",
+    "bytes": 18483693,
+    "loudness": {
+      "input_i": "-14.09",
+      "input_tp": "-1.31",
+      "input_lra": "2.30",
+      "input_thresh": "-24.69",
+      "output_i": "-14.12",
+      "output_tp": "-1.50",
+      "output_lra": "1.90",
+      "output_thresh": "-24.73",
+      "normalization_type": "dynamic",
+      "target_offset": "0.12"
+    },
+    "integrated_lufs": -14.09,
+    "true_peak_dbtp": -1.31,
+    "sha256": "86256f03dc8844229a389c908fa3749cc62840e788d4af7490d8dba74ec169b1"
+  },
+  "upload": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S05_upload.mp4",
+    "bytes": 9528798,
+    "loudness": {
+      "input_i": "-14.11",
+      "input_tp": "-1.02",
+      "input_lra": "2.40",
+      "input_thresh": "-24.71",
+      "output_i": "-14.16",
+      "output_tp": "-1.50",
+      "output_lra": "1.90",
+      "output_thresh": "-24.75",
+      "normalization_type": "dynamic",
+      "target_offset": "0.16"
+    },
+    "integrated_lufs": -14.11,
+    "true_peak_dbtp": -1.02,
+    "sha256": "f2fd579e2aeac81a8cbcaa0105d006e900714f30bf87f918ff70b1e0cf471f27"
+  },
+  "source_files": {
+    "blender_tank.py": "bf9f35ed5244fbd6fddfcf214f8d6f82db173ef2a398b7d25e74afd69ea56c92",
+    "build.py": "a3ed5a0d00de821b7b6bcacaffaf03211403d3b8f9b1f511401858291b644eb1",
+    "encode_review.py": "63540444bc083e568de0137594b07bf6fc230958c7fe3e718dfcaa9fd1e3a8a7",
+    "finish_render.py": "e738b8315b3525165be00ff112f52c0a36821edc5bda114d78adc12ccf30d13e",
+    "mapa.py": "63cc1bff3fc7e45fc4e44184afbdc773f0111bed584edbe5eca0144c9b0ce38f",
+    "master_audio.py": "1b50775797c7f338207a500eff08cf2967bbd9c08e7002fe37ce8e18c1e436bf",
+    "qa.py": "e678ecb626862bf54d1f3ea5b98d479f20c379275529e4f0d3d6f9346a8dbf80",
+    "render_all_3d.py": "a237d20440ae6f11638497776a70fa07c0951b68335d8bf8aab059d5fb97ae86",
+    "review.py": "01b1f152eb931338c7e7a6e1980ad305f0a8934b444943410cfdd95770c27be0",
+    "s05_scenes.py": "735df24d99ab552adfa96f66172c228d5a3b834ec9c580e050d0d51e966335da",
+    "s05_sound.py": "8939324786a62e23783e3daa730f5f92f834510897ec416e21337edd27c68f37",
+    "sound.py": "ff431d7c5f4397c78b0af438996b5ed1146751e3c08de59ef840c43ffaf54a48",
+    "tank_fx.py": "932299d92280bac3ea00750c082059e509c0a4309ed6308d813cee969d3e2f26"
+  },
+  "assets": [
+    "assets\\blueprint.png",
+    "assets\\engineer.png",
+    "assets\\factory.png",
+    "assets\\guard.png",
+    "assets\\guard_ok.png",
+    "assets\\guard_panic.png",
+    "assets\\painter.png",
+    "assets\\stamp.png",
+    "assets\\tank_icon.png",
+    "assets\\tarp.png",
+    "assets\\water.png"
+  ],
+  "review_frames": 82
+}

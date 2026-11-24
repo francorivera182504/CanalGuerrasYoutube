@@ -1,0 +1,67 @@
+[
+  {
+    "name": "guard",
+    "subject": "Full body British WW1 Stick guard, plain khaki, flat Brodie helmet, rifle at rest. Pure white background.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "engineer",
+    "subject": "One friendly WW1 British civilian engineer, full body simple Stick figure with large round white head, two dot eyes, plain khaki work shirt and brown trousers, thin black limbs, sleeves rolled up, both arms stretched forward holding a large completely blank pale blue blueprint sheet horizontally at chest level. Sheet has thick black edge and absolutely NO marks or lettering.",
+    "style": "WarMap Stick, round white heads, dot eyes, thick black outlines, flat colors, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "painter",
+    "subject": "One full body British WW1 factory worker Stick figure, round white head, dot eyes, brown cap, khaki overalls. Facing right in 3/4 view, right arm reaches out to paint with a large brush with cream paint on its tip. Left hand holds a small paint bucket. Entire brush visible, no lettering.",
+    "style": "WarMap Stick, round white heads, dot eyes, thick black outlines, flat colors, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "water",
+    "subject": "One harmless cylindrical WATER STORAGE TANK on four tall thin metal legs, elliptical top, pale muted blue steel cylinder with thick black outline, small pipe and tap. Three quarter side view, entire tank and all legs visible, no text.",
+    "style": "WarMap Stick, round white heads, dot eyes, thick black outlines, flat colors, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "tarp",
+    "subject": "One secret WW1 Mark I tank completely hidden under a plain khaki canvas tarp, very low long unmistakable rhomboid silhouette, covered tracks barely visible along bottom, NO turret, NO gun visible. Broad flat side of tarp left blank for later lettering. Three quarter side view, simple flat brown and olive folds, no symbols.",
+    "style": "WarMap Stick, round white heads, dot eyes, thick black outlines, flat colors, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "blueprint",
+    "subject": "One large horizontal blank pale blue blueprint paper sheet, slightly curled corners, thick black outline. Entire center completely empty uniform pale blue for later compositing text. No blueprint drawing, no grid, no marks, absolutely no text.",
+    "style": "WarMap Stick, round white heads, dot eyes, thick black outlines, flat colors, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "stamp",
+    "subject": "One rubber office stamp with wooden brown rounded handle and rectangular dark red rubber base, 3/4 view. Simple chunky icon. No lettering on any surface.",
+    "style": "WarMap Stick, round white heads, dot eyes, thick black outlines, flat colors, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "factory",
+    "subject": "One small British WW1 factory shed, red-brown brick walls, charcoal pitched roof with short chimney, broad shut double wooden doors and a large clearly visible brass padlock hanging at center of the doors. Three quarter view, thick simple cartoon outlines. No people.",
+    "style": "WarMap Stick, round white heads, dot eyes, thick black outlines, flat colors, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "tank_icon",
+    "subject": "One simple small side-view icon of a British WW1 Mark I MALE tank, unmistakable long rhomboid tracks running around entire hull, two short side-sponson guns, dark khaki brown. Flat side profile facing RIGHT. NO turret, no modern features, no people.",
+    "style": "WarMap Stick, round white heads, dot eyes, thick black outlines, flat colors, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "guard_panic",
+    "reference": "guard.png",
+    "subject": "Same guard, surprised open mouth, raised eyebrows, free palm up, rifle resting, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "name": "guard_ok",
+    "reference": "guard.png",
+    "subject": "Same guard, smile and clear thumbs-up, rifle at rest, pure white background, no text or insignia.",
+    "tool": "built-in image_gen"
+  }
+]

@@ -1,0 +1,18 @@
+{
+ "title": "Why Tanks Are Called 'Tanks'",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {"id": "01", "style": "3D",   "headline": "WATER TANK?",       "text": "Your 'water tank' crushes barbed wire."},
+  {"id": "02", "style": "3D",   "headline": "WATER TANK?",       "text": "So why give a weapon a water-container name?"},
+  {"id": "03", "style": "MAP",  "headline": "LATE 1915",         "text": "You're guarding a secret British project in late nineteen fifteen."},
+  {"id": "04", "style": "3D",   "headline": "CROSS THE TRENCHES","text": "Engineers want a machine that can cross trenches and smash through wire."},
+  {"id": "05", "style": "CHAR", "headline": "TOO OBVIOUS",       "text": "But a name like 'landship' tells the enemy too much."},
+  {"id": "06", "style": "CHAR", "headline": "COVER NAME",        "text": "So the project gets an innocent cover name: tank."},
+  {"id": "07", "style": "CHAR", "headline": "SOUNDS HARMLESS",   "text": "Not because it carries water. Because it's supposed to sound like it does."},
+  {"id": "08", "style": "CHAR", "headline": "FAKE DESTINATION",  "text": "Some are even marked in Russian: 'With care to Petrograd.'"},
+  {"id": "09", "style": "3D",   "headline": "WILL IT WORK?",     "text": "But would this secret weapon actually work?"},
+  {"id": "10", "style": "MAP",  "headline": "15 SEP 1916",       "text": "In September nineteen sixteen, it goes into battle at Flers. Forty-nine tanks are assigned. Only thirty-two reach the start line."},
+  {"id": "11", "style": "3D",   "headline": "8 MEN INSIDE",      "text": "Behind that harmless name are eight men going into battle."},
+  {"id": "12", "style": "3D",   "headline": "WATER TANK?",       "text": "The secret ends. The harmless name survives. Would that cover story fool you?"}
+ ]
+}

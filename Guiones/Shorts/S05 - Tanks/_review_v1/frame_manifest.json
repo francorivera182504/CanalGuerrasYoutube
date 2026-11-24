@@ -1,0 +1,494 @@
+[
+  {
+    "requested_s": 0,
+    "frame_index": 0,
+    "frame_s": 0.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_00.000.jpg"
+  },
+  {
+    "requested_s": 0.2,
+    "frame_index": 6,
+    "frame_s": 0.2,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_00.200.jpg"
+  },
+  {
+    "requested_s": 0.4,
+    "frame_index": 12,
+    "frame_s": 0.4,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_00.400.jpg"
+  },
+  {
+    "requested_s": 0.6,
+    "frame_index": 18,
+    "frame_s": 0.6,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_00.600.jpg"
+  },
+  {
+    "requested_s": 0.8,
+    "frame_index": 24,
+    "frame_s": 0.8,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_00.800.jpg"
+  },
+  {
+    "requested_s": 1,
+    "frame_index": 30,
+    "frame_s": 1.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_01.000.jpg"
+  },
+  {
+    "requested_s": 1.15,
+    "frame_index": 35,
+    "frame_s": 1.1666666666666667,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_01.150.jpg"
+  },
+  {
+    "requested_s": 1.2,
+    "frame_index": 36,
+    "frame_s": 1.2,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_01.200.jpg"
+  },
+  {
+    "requested_s": 1.35,
+    "frame_index": 41,
+    "frame_s": 1.3666666666666667,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_01.350.jpg"
+  },
+  {
+    "requested_s": 1.4,
+    "frame_index": 42,
+    "frame_s": 1.4,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_01.400.jpg"
+  },
+  {
+    "requested_s": 1.6,
+    "frame_index": 48,
+    "frame_s": 1.6,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_01.600.jpg"
+  },
+  {
+    "requested_s": 2,
+    "frame_index": 60,
+    "frame_s": 2.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_02.000.jpg"
+  },
+  {
+    "requested_s": 2.5,
+    "frame_index": 75,
+    "frame_s": 2.5,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_02.500.jpg"
+  },
+  {
+    "requested_s": 3,
+    "frame_index": 90,
+    "frame_s": 3.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_03.000.jpg"
+  },
+  {
+    "requested_s": 4,
+    "frame_index": 120,
+    "frame_s": 4.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_04.000.jpg"
+  },
+  {
+    "requested_s": 5,
+    "frame_index": 150,
+    "frame_s": 5.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_05.000.jpg"
+  },
+  {
+    "requested_s": 5.4667,
+    "frame_index": 164,
+    "frame_s": 5.466666666666667,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_05.467.jpg"
+  },
+  {
+    "requested_s": 6,
+    "frame_index": 180,
+    "frame_s": 6.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_06.000.jpg"
+  },
+  {
+    "requested_s": 7,
+    "frame_index": 210,
+    "frame_s": 7.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_07.000.jpg"
+  },
+  {
+    "requested_s": 8,
+    "frame_index": 240,
+    "frame_s": 8.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_08.000.jpg"
+  },
+  {
+    "requested_s": 9,
+    "frame_index": 270,
+    "frame_s": 9.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_09.000.jpg"
+  },
+  {
+    "requested_s": 9.2,
+    "frame_index": 276,
+    "frame_s": 9.2,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_09.200.jpg"
+  },
+  {
+    "requested_s": 10,
+    "frame_index": 300,
+    "frame_s": 10.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_10.000.jpg"
+  },
+  {
+    "requested_s": 11,
+    "frame_index": 330,
+    "frame_s": 11.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_11.000.jpg"
+  },
+  {
+    "requested_s": 12,
+    "frame_index": 360,
+    "frame_s": 12.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_12.000.jpg"
+  },
+  {
+    "requested_s": 13,
+    "frame_index": 390,
+    "frame_s": 13.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_13.000.jpg"
+  },
+  {
+    "requested_s": 13.25,
+    "frame_index": 398,
+    "frame_s": 13.266666666666667,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_13.250.jpg"
+  },
+  {
+    "requested_s": 14,
+    "frame_index": 420,
+    "frame_s": 14.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_14.000.jpg"
+  },
+  {
+    "requested_s": 15,
+    "frame_index": 450,
+    "frame_s": 15.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_15.000.jpg"
+  },
+  {
+    "requested_s": 15.35,
+    "frame_index": 461,
+    "frame_s": 15.366666666666667,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_15.350.jpg"
+  },
+  {
+    "requested_s": 16,
+    "frame_index": 480,
+    "frame_s": 16.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_16.000.jpg"
+  },
+  {
+    "requested_s": 16.4,
+    "frame_index": 492,
+    "frame_s": 16.4,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_16.400.jpg"
+  },
+  {
+    "requested_s": 17,
+    "frame_index": 510,
+    "frame_s": 17.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_17.000.jpg"
+  },
+  {
+    "requested_s": 18,
+    "frame_index": 540,
+    "frame_s": 18.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_18.000.jpg"
+  },
+  {
+    "requested_s": 18.55,
+    "frame_index": 557,
+    "frame_s": 18.566666666666666,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_18.550.jpg"
+  },
+  {
+    "requested_s": 19,
+    "frame_index": 570,
+    "frame_s": 19.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_19.000.jpg"
+  },
+  {
+    "requested_s": 19.35,
+    "frame_index": 581,
+    "frame_s": 19.366666666666667,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_19.350.jpg"
+  },
+  {
+    "requested_s": 20,
+    "frame_index": 600,
+    "frame_s": 20.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_20.000.jpg"
+  },
+  {
+    "requested_s": 21,
+    "frame_index": 630,
+    "frame_s": 21.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_21.000.jpg"
+  },
+  {
+    "requested_s": 22,
+    "frame_index": 660,
+    "frame_s": 22.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_22.000.jpg"
+  },
+  {
+    "requested_s": 23,
+    "frame_index": 690,
+    "frame_s": 23.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_23.000.jpg"
+  },
+  {
+    "requested_s": 24,
+    "frame_index": 720,
+    "frame_s": 24.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_24.000.jpg"
+  },
+  {
+    "requested_s": 24.1,
+    "frame_index": 723,
+    "frame_s": 24.1,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_24.100.jpg"
+  },
+  {
+    "requested_s": 25,
+    "frame_index": 750,
+    "frame_s": 25.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_25.000.jpg"
+  },
+  {
+    "requested_s": 26,
+    "frame_index": 780,
+    "frame_s": 26.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_26.000.jpg"
+  },
+  {
+    "requested_s": 26.5,
+    "frame_index": 795,
+    "frame_s": 26.5,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_26.500.jpg"
+  },
+  {
+    "requested_s": 27,
+    "frame_index": 810,
+    "frame_s": 27.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_27.000.jpg"
+  },
+  {
+    "requested_s": 27.67,
+    "frame_index": 831,
+    "frame_s": 27.7,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_27.670.jpg"
+  },
+  {
+    "requested_s": 28,
+    "frame_index": 840,
+    "frame_s": 28.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_28.000.jpg"
+  },
+  {
+    "requested_s": 28.4,
+    "frame_index": 852,
+    "frame_s": 28.4,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_28.400.jpg"
+  },
+  {
+    "requested_s": 29,
+    "frame_index": 870,
+    "frame_s": 29.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_29.000.jpg"
+  },
+  {
+    "requested_s": 29.1,
+    "frame_index": 873,
+    "frame_s": 29.1,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_29.100.jpg"
+  },
+  {
+    "requested_s": 30,
+    "frame_index": 900,
+    "frame_s": 30.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_30.000.jpg"
+  },
+  {
+    "requested_s": 31,
+    "frame_index": 930,
+    "frame_s": 31.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_31.000.jpg"
+  },
+  {
+    "requested_s": 32,
+    "frame_index": 960,
+    "frame_s": 32.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_32.000.jpg"
+  },
+  {
+    "requested_s": 33,
+    "frame_index": 990,
+    "frame_s": 33.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_33.000.jpg"
+  },
+  {
+    "requested_s": 34,
+    "frame_index": 1020,
+    "frame_s": 34.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_34.000.jpg"
+  },
+  {
+    "requested_s": 34.25,
+    "frame_index": 1028,
+    "frame_s": 34.266666666666666,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_34.250.jpg"
+  },
+  {
+    "requested_s": 35,
+    "frame_index": 1050,
+    "frame_s": 35.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_35.000.jpg"
+  },
+  {
+    "requested_s": 35.8,
+    "frame_index": 1074,
+    "frame_s": 35.8,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_35.800.jpg"
+  },
+  {
+    "requested_s": 36,
+    "frame_index": 1080,
+    "frame_s": 36.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_36.000.jpg"
+  },
+  {
+    "requested_s": 36.8,
+    "frame_index": 1104,
+    "frame_s": 36.8,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_36.800.jpg"
+  },
+  {
+    "requested_s": 37,
+    "frame_index": 1110,
+    "frame_s": 37.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_37.000.jpg"
+  },
+  {
+    "requested_s": 38,
+    "frame_index": 1140,
+    "frame_s": 38.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_38.000.jpg"
+  },
+  {
+    "requested_s": 38.1,
+    "frame_index": 1143,
+    "frame_s": 38.1,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_38.100.jpg"
+  },
+  {
+    "requested_s": 38.9,
+    "frame_index": 1167,
+    "frame_s": 38.9,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_38.900.jpg"
+  },
+  {
+    "requested_s": 39,
+    "frame_index": 1170,
+    "frame_s": 39.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_39.000.jpg"
+  },
+  {
+    "requested_s": 39.2,
+    "frame_index": 1176,
+    "frame_s": 39.2,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_39.200.jpg"
+  },
+  {
+    "requested_s": 40,
+    "frame_index": 1200,
+    "frame_s": 40.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_40.000.jpg"
+  },
+  {
+    "requested_s": 40.7,
+    "frame_index": 1221,
+    "frame_s": 40.7,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_40.700.jpg"
+  },
+  {
+    "requested_s": 41,
+    "frame_index": 1230,
+    "frame_s": 41.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_41.000.jpg"
+  },
+  {
+    "requested_s": 42,
+    "frame_index": 1260,
+    "frame_s": 42.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_42.000.jpg"
+  },
+  {
+    "requested_s": 42.25,
+    "frame_index": 1268,
+    "frame_s": 42.266666666666666,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_42.250.jpg"
+  },
+  {
+    "requested_s": 42.55,
+    "frame_index": 1277,
+    "frame_s": 42.56666666666667,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_42.550.jpg"
+  },
+  {
+    "requested_s": 43,
+    "frame_index": 1290,
+    "frame_s": 43.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_43.000.jpg"
+  },
+  {
+    "requested_s": 44,
+    "frame_index": 1320,
+    "frame_s": 44.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_44.000.jpg"
+  },
+  {
+    "requested_s": 45,
+    "frame_index": 1350,
+    "frame_s": 45.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_45.000.jpg"
+  },
+  {
+    "requested_s": 46,
+    "frame_index": 1380,
+    "frame_s": 46.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_46.000.jpg"
+  },
+  {
+    "requested_s": 47,
+    "frame_index": 1410,
+    "frame_s": 47.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_47.000.jpg"
+  },
+  {
+    "requested_s": 48,
+    "frame_index": 1440,
+    "frame_s": 48.0,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_48.000.jpg"
+  },
+  {
+    "requested_s": 48.4,
+    "frame_index": 1452,
+    "frame_s": 48.4,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_48.400.jpg"
+  },
+  {
+    "requested_s": 48.5,
+    "frame_index": 1455,
+    "frame_s": 48.5,
+    "path": "E:\\Historias TIK\\WarMap Stick\\Guiones\\Shorts\\S05 - Tanks\\_review\\frame_48.500.jpg"
+  }
+]
