@@ -47,3 +47,7 @@ _*_sent.txt
 *.blend1
 **/_prep/
 graphify-out/
+
+# Miniaturas de otros canales (solo referencia local)
+Miniatura/_investigacion/thumbs/
+Miniatura/_investigacion/sheet_*.jpg
