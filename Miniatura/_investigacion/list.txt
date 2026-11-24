@@ -1,0 +1,36 @@
+A|1PjiEdPo5nY|Ambos Bandos|126k
+A|irVbTqE1ZuA|Ambos Bandos|129k
+A|M_sjDNLr78k|Ambos Bandos|58k
+A|hghp0oPrNyI|Ambos Bandos|22k
+A|zZpLzPHns34|Ambos Bandos|4k
+A|Xrf_Ek8bbHQ|Datoon|40
+A|N6aOk0SiHgI|History Matters|6.0M
+A|9_e_1fNH2aI|History Matters|1.8M
+A|0n7N5HjH12Q|History Matters|1.3M
+A|gcJbJUDVAPM|Simple History|2.1M
+A|Lq-W2FfHlkY|Tiny Diplomats|201k
+A|XpvCr4_mvmw|Simple Paint|2.0M
+A|dCQ4u9MjahU|Countryballs|2.3M
+A|P2wXrniiSa4|Trust Me Bro|4.0M
+A|w5mhZs73Qwc|Historically|2.3M
+A|6WM_8x6n63c|Infographics Show|382k
+B|eOJzZHJFWnc|State Dossiers|1.0M
+B|OqKTrSlQXSA|The Entire War|846k
+B|Kl6j9ECLSEQ|The Entire War|226k
+B|cneYGsat9_k|Archive in Minutes|209k
+B|WaOYqm6jhkY|Map & Sword|199k
+B|bm-X5cp8sQM|Ember History|109k
+B|NaRg-9Ztk_Y|Epochs in Ink (Crimea)|716k
+B|QjhqB3tC1Ko|RealLifeLore (Crimea)|2.0M
+B|FBOT8bs_ews|IWM (Crimea)|521k
+B|so4v_2zq35k|IWM (Pearl)|10.6M
+B|u1EZ55_F7xk|Real Time History (Pearl)|2.1M
+B|B-KUG2U1k60|Markets of the Past (Pearl)|916k
+B|3Fk1aA1xv1c|Mighty Monk (Pearl)|1.9M
+B|Dmb8lJjk9U8|Real Time History (Winter)|1.4M
+B|3OIIfBTpPE4|Iron Archive (Winter)|148k
+B|lWi2Kclq0DE|KnowledgeHusk (Winter)|2.0M
+B|1PWcZTF3zOM|Flashback (Winter)|331k
+B|uLVHMpF2ykI|Henry Stewart (Winter)|68k
+B|lMIOKV16v8E|Ryan McBeth (Crimea)|168k
+B|2ZKANCH80-M|Yarnhub|18.5M
