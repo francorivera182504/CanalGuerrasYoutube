@@ -70,6 +70,16 @@ Lleva 430k vistas en 6 semanas, casi todas de 2 videos "¿Por qué X NO hizo Y?"
   - Español mediante doblaje automático o una pista de audio propia.
 - **No copiar:** su ritmo de 4–5 videos de 29 min el mismo día, por el riesgo de que YouTube lo trate como contenido repetitivo.
 
+## 6b. Competencia en Shorts: Datoon (23-nov-2026)
+"Why trenches were never straight" sacó 167k vistas con un canal de 6 semanas. Su fórmula:
+- una curiosidad sobre un detalle físico de la guerra;
+- narración en segunda persona ("You are in France…");
+- el problema contra la solución en antes y después;
+- un giro, un dato de escala sobre el globo y un cierre emocional;
+- una toma 3D aérea en el cuadro 0.
+
+Para nosotros: una serie "You Are the Soldier" con Stick 3D, mapa neón y Blender. Ideas y detalle en `Guiones/Ideas/2026-11-23 Analisis Shorts Datoon (Claude).md`.
+
 ## 7. Qué revisar tras publicar
 - **Shorts:** a las 24–48 h, "Stayed to watch" (viewed vs swiped) y la retención de los primeros 3 s. Comparar con el S02 a la misma edad.
 - **Largos:** a las 24 h, el CTR por fuente; a las 48 h, la retención de 0:00–0:30. No tocar título ni miniatura mientras corre un Test & Compare.
