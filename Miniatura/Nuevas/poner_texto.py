@@ -17,6 +17,8 @@ TEXTOS = {
     'WW_E_giant_vs_tiny':  dict(lines=[[('3.7M', Y)], [('vs ', W), ('170M', R)]], pos='tl', size=190),
     'CR_D_putin_crimea':   dict(lines=[[('WHY', W)], [('CRIMEA?', Y)]], pos='tl', size=210),
     'CR_E_one_bridge':     dict(lines=[[('ONE', W)], [('BRIDGE', Y)]], pos='tl', size=220),
+    'IR_A_deal_torn':      dict(lines=[[('STILL', W)], [('NOT', W)], [('OVER?', Y)]], pos='tl', size=175),
+    'IR_B_hormuz_choke':   dict(lines=[[('NO', W)], [('END?', Y)]], pos='tl', size=230),
 }
 
 def render(name, cfg):
