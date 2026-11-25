@@ -19,6 +19,13 @@ TEXTOS = {
     'CR_E_one_bridge':     dict(lines=[[('ONE', W)], [('BRIDGE', Y)]], pos='tl', size=220),
     'IR_A_deal_torn':      dict(lines=[[('STILL', W)], [('NOT', W)], [('OVER?', Y)]], pos='tl', size=175),
     'IR_B_hormuz_choke':   dict(lines=[[('NO', W)], [('END?', Y)]], pos='tl', size=230),
+    # Ronda "minas de oro" (25-nov-2026)
+    'HZ_A_one_wrong_move': dict(lines=[[('ONE ', W), ('WRONG ', Y), ('MOVE', W)]], pos='top', size=150),
+    'CR_F_feeds_the_war':  dict(lines=[[('FEEDS ', Y), ('THE WAR', W)]], pos='top', size=160),
+    'WW_F_where_are_they': dict(lines=[[('WHERE', Y)], [('ARE THEY?', W)]], pos='tl', size=150),
+    'PH_F_missed_them':    dict(lines=[[('MISSED ', Y), ('THEM', W)]], pos='top', size=170),
+    'VN_A_how_america_lost': dict(lines=[[('HOW AMERICA ', W), ('LOST', Y)]], pos='top', size=140),
+    'IR_C_now_what':       dict(lines=[[('NOW', W)], [('WHAT?', Y)]], pos='tr', size=200),
 }
 
 def render(name, cfg):
@@ -77,9 +84,10 @@ if __name__ == '__main__':
         S = Image.new('RGB', (cols * tw, ((len(outs) + 1) // 2) * th), 'black')
         for i, o in enumerate(outs):
             S.paste(Image.open(o).resize((tw, th)), ((i % cols) * tw, (i // cols) * th))
-        S.save(os.path.join(HERE, '_sheet.jpg'), quality=88)
+        tag = os.environ.get('SHEET', '')
+        S.save(os.path.join(HERE, f'_sheet{tag}.jpg'), quality=88)
         sm = Image.new('RGB', (len(outs) * 250, 141), 'white')
         for i, o in enumerate(outs):
             sm.paste(Image.open(o).resize((246, 138)), (i * 250, 1))
-        sm.save(os.path.join(HERE, '_small.jpg'), quality=90)
+        sm.save(os.path.join(HERE, f'_small{tag}.jpg'), quality=90)
     print('\n'.join(outs))

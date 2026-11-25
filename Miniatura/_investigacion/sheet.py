@@ -2,7 +2,7 @@ import sys
 from PIL import Image, ImageDraw, ImageFont
 rows=[l.strip().split('|') for l in open('list.txt',encoding='utf8') if l.strip()]
 f=ImageFont.truetype('arialbd.ttf',18)
-for g in 'AB':
+for g in 'ABC':
     it=[r for r in rows if r[0]==g]
     cols=4; W,H=480,270; lab=28
     n=len(it); R=(n+cols-1)//cols
