@@ -1,0 +1,20 @@
+{
+ "title": "How Hitler FOOLED Europe",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {"id": "01", "style": "MAP", "headline": "THE BLUFF", "text": "In nineteen thirty-six, Hitler sent troops into the Rhineland with orders to run if France fought back."},
+  {"id": "02", "style": "MAP", "headline": "THE BLUFF", "text": "France had the bigger army. It didn't move. So he did it again. And again."},
+  {"id": "03", "style": "MAP", "headline": "LAST CLAIM", "text": "Nineteen thirty-eight. He swears this slice of Czechoslovakia is his last territorial claim in Europe."},
+  {"id": "04", "style": "CHAR", "headline": "PEACE?", "text": "Britain's prime minister flies home waving a paper. Peace for our time."},
+  {"id": "05", "style": "MAP", "headline": "PRAGUE", "text": "Less than six months later, his tanks roll into Prague."},
+  {"id": "06", "style": "CHAR", "headline": "FAKE ATTACK", "text": "Nineteen thirty-nine. SS men dressed as Poles fake an attack on a German radio station."},
+  {"id": "07", "style": "MAP", "headline": "SELF-DEFENCE?", "text": "The next morning, Germany invades Poland and calls it self-defence."},
+  {"id": "08", "style": "CHAR", "headline": "BUT WHY?", "text": "Okay, but why did anyone still believe him?"},
+  {"id": "09", "style": "CHAR", "headline": "NO MORE WAR", "text": "Because after World War One, Britain and France feared another war. And he used that."},
+  {"id": "10", "style": "MAP", "headline": "WRONG DOOR", "text": "Nineteen forty. The Allies rush into Belgium to stop him. But his tanks come through the Ardennes forest, behind them."},
+  {"id": "11", "style": "MAP", "headline": "6 WEEKS", "text": "France falls in six weeks."},
+  {"id": "12", "style": "CHAR", "headline": "THE HANDSHAKE", "text": "He even signed a deal with Stalin. Then, in nineteen forty-one, three million German soldiers invade."},
+  {"id": "13", "style": "MAP", "headline": "THE COST", "text": "Every lie bought him time. And millions paid for it."},
+  {"id": "14", "style": "CHAR", "headline": "PAYBACK", "text": "But the master of lies got fooled back. By a dead man with fake letters. Follow for that one."}
+ ]
+}

@@ -1,0 +1,42 @@
+{
+  "approved_total_s": 73.626,
+  "encoded_duration_s": 73.63333333333334,
+  "frame_count": 2209,
+  "format": "1080x1920 30 fps",
+  "master": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S07_HitlerFooled.mp4",
+    "bytes": 14073482,
+    "loudness": {
+      "input_i": "-14.06",
+      "input_tp": "-1.53",
+      "input_lra": "2.90",
+      "input_thresh": "-24.97",
+      "output_i": "-13.98",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-24.88",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.02"
+    },
+    "integrated_lufs": -14.06,
+    "true_peak_dbtp": -1.53
+  },
+  "upload": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S07_upload.mp4",
+    "bytes": 8971582,
+    "loudness": {
+      "input_i": "-14.09",
+      "input_tp": "-1.50",
+      "input_lra": "2.90",
+      "input_thresh": "-25.00",
+      "output_i": "-13.98",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-24.88",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.02"
+    },
+    "integrated_lufs": -14.09,
+    "true_peak_dbtp": -1.5
+  }
+}
