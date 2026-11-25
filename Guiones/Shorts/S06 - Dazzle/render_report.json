@@ -1,0 +1,42 @@
+{
+  "approved_total_s": 52.237,
+  "encoded_duration_s": 52.266666666666666,
+  "frame_count": 1568,
+  "format": "1080x1920 30 fps",
+  "master": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S06_Dazzle.mp4",
+    "bytes": 19178964,
+    "loudness": {
+      "input_i": "-14.03",
+      "input_tp": "-1.46",
+      "input_lra": "2.30",
+      "input_thresh": "-24.67",
+      "output_i": "-14.01",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-24.65",
+      "normalization_type": "dynamic",
+      "target_offset": "0.01"
+    },
+    "integrated_lufs": -14.03,
+    "true_peak_dbtp": -1.46
+  },
+  "upload": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S06_upload.mp4",
+    "bytes": 9527100,
+    "loudness": {
+      "input_i": "-14.05",
+      "input_tp": "-1.30",
+      "input_lra": "2.30",
+      "input_thresh": "-24.70",
+      "output_i": "-14.03",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-24.65",
+      "normalization_type": "dynamic",
+      "target_offset": "0.03"
+    },
+    "integrated_lufs": -14.05,
+    "true_peak_dbtp": -1.3
+  }
+}

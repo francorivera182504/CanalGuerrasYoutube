@@ -1,0 +1,78 @@
+{
+ "title": "Why WW1 Ships Were Painted Like Zebras",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {
+   "id": "01",
+   "style": "3D",
+   "headline": "WHY ZEBRA?",
+   "text": "Your torpedo target is painted like a giant zebra."
+  },
+  {
+   "id": "02",
+   "style": "3D",
+   "headline": "WHY ZEBRA?",
+   "text": "And that's not a mistake. It's the whole plan."
+  },
+  {
+   "id": "03",
+   "style": "MAP",
+   "headline": "1917",
+   "text": "It's nineteen seventeen. U-boats are sinking British ships faster than they can be replaced."
+  },
+  {
+   "id": "04",
+   "style": "CHAR",
+   "headline": "CAN'T HIDE",
+   "text": "You can't hide a ship on the open sea. So a British artist has a strange idea."
+  },
+  {
+   "id": "05",
+   "style": "CHAR",
+   "headline": "CONFUSE IT",
+   "text": "Don't hide it. Confuse it."
+  },
+  {
+   "id": "06",
+   "style": "3D",
+   "headline": "AIM AHEAD",
+   "text": "Your torpedo needs time to get there. So you aim where the ship will be, not where it is."
+  },
+  {
+   "id": "07",
+   "style": "CHAR",
+   "headline": "FEW SECONDS",
+   "text": "You judge its speed and heading through a periscope, in seconds."
+  },
+  {
+   "id": "08",
+   "style": "3D",
+   "headline": "WHICH WAY?",
+   "text": "But the stripes break up its shape. Which end is the bow? Which way is it turning?"
+  },
+  {
+   "id": "09",
+   "style": "3D",
+   "headline": "MISSED",
+   "text": "Guess wrong, and your torpedo misses."
+  },
+  {
+   "id": "10",
+   "style": "MAP",
+   "headline": "THOUSANDS",
+   "text": "Britain painted thousands of ships like this, and America copied the idea."
+  },
+  {
+   "id": "11",
+   "style": "CHAR",
+   "headline": "NO PROOF?",
+   "text": "Did it actually work? A study in nineteen eighteen found no clear proof."
+  },
+  {
+   "id": "12",
+   "style": "3D",
+   "headline": "WHY ZEBRA?",
+   "text": "But crews felt safer. Would those stripes fool you?"
+  }
+ ]
+}
