@@ -227,7 +227,7 @@ STORY = {
               arrow=[([1000, 820], [1700, 820], "BLUE", "resumed", 0.0)], label=[("SOUTH", [1820, 820], "BLUE", "south", 40)]),
  "505": dict(view="gaza", fill=[("GAZA", "GREEN", 0.25)], bg="dim", count=[(0, 74746, "{:,.0f}", [960, 380], "74,746", 2.5, 120, "WHITE")],
              label=[("REPORTED BY GAZA'S HEALTH MINISTRY (PART OF HAMAS-RUN GOVERNMENT)", [960, 500], "LBLUE", "Ministry", 36), ("DOES NOT SEPARATE CIVILIANS / FIGHTERS", [960, 570], "LBLUE", "separate", 36)],
-             card=[("ISRAEL DISPUTES IT", [960, 760], "BLUE", "disputes", 440)]),
+             card=[("ISRAEL: THOUSANDS WERE FIGHTERS", [960, 760], "BLUE", "thousands", 620)]),
  "506": dict(view="gaza", bg="dim", custom2=[people], label=[("~1.9 MILLION DISPLACED", [960, 800], "WHITE", "1.9", 54)]),
  "507": dict(view="gaza", bg="dim", custom2=[ipc], card=[("IPC: FAMINE CONFIRMED IN GAZA CITY (AUG 2025)", [1300, 330], "GOLD", "confirmed", 600), ("ISRAEL REJECTS THE FINDING", [1300, 620], "BLUE", "rejected", 520)]),
  "508": dict(view="levant", bg="dim", icon=[("el_court", [960, 560], 420, None)], card=[("SOUTH AFRICA: GENOCIDE", [430, 300], "GOLD", "accusing", 480), ("ISRAEL: DENIES / SELF-DEFENCE", [1490, 300], "BLUE", "denies", 520),

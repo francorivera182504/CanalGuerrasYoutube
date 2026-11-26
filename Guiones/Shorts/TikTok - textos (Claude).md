@@ -10,5 +10,6 @@ Cada texto es el título del Short, una pregunta para generar comentarios y 5 ha
 | S04 | Render/Shorts/S04_upload.mp4 | Why Britain blew up its own warship. Was it worth it? #history #ww2 #navy #militaryhistory #historytok |
 | S05 | Render/Shorts/S05_upload.mp4 | Why tanks are called "tanks". Which military name should we explain next? #history #ww1 #tanks #militaryhistory #historytok |
 | S06 | Render/Shorts/S06_upload.mp4 | Why WW1 ships were painted like zebras. Would those stripes fool you? #history #ww1 #navy #camouflage #historytok |
+| S07 | Render/Shorts/S07_upload.mp4 | How Hitler fooled Europe, one bluff at a time. Which lie worked best? #history #ww2 #europe #militaryhistory #historytok |
 
 Orden de subida: del S01 al S06, así el más nuevo queda arriba en el perfil.

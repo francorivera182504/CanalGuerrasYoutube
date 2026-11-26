@@ -41,7 +41,7 @@
    "chapter": "HOOK",
    "style": "CHAR",
    "headline": "1948 → 2026",
-   "text": "Why it changed is part of a story that starts thirty years earlier, with two peoples claiming the same land. This is that whole story, told from every side.",
+   "text": "Why it changed is part of a story that starts thirty years earlier, with two peoples claiming the same land. This is an overview of that story, with the view from every side.",
    "visual": "Línea de tiempo 1948 → 2026 que se dibuja; tres Sticks (israelí, palestino, iraní) aparecen de igual tamaño, uno junto al otro."
   },
   {
@@ -393,7 +393,7 @@
    "chapter": "V. OCTOBER 7 AND GAZA",
    "style": "MAP",
    "headline": "74,746",
-   "text": "By late November 2026, Gaza's Health Ministry, part of the Hamas-run government, reported at least 74,746 Palestinians killed. Its count does not separate civilians from fighters, and Israel disputes it.",
+   "text": "By late November 2026, Gaza's Health Ministry, part of the Hamas-run government, reported at least 74,746 Palestinians killed. Its published total does not separate civilians from fighters. Israel says thousands of the dead were fighters.",
    "visual": "Contador sobrio 74,746 con la fuente atribuida debajo; burbuja ISRAEL DISPUTES. Sin imágenes de víctimas."
   },
   {
@@ -505,7 +505,7 @@
    "chapter": "VII. FACE TO FACE",
    "style": "MAP",
    "headline": "APRIL 2024",
-   "text": "For forty-five years, Iran and Israel had fought through others. That ended in April 2024. After a strike on Iran's embassy compound in Damascus, widely blamed on Israel, Iran launched more than 300 drones and missiles straight at Israel.",
+   "text": "Years of covert attacks and proxy warfare escalated into direct exchanges in April 2024. After a strike on Iran's embassy compound in Damascus, widely blamed on Israel, Iran launched more than 300 drones and missiles straight at Israel.",
    "visual": "Mapa: punto en Damasco; desde Irán salen 300 trazos que cruzan Irak y Jordania; contador 300+."
   },
   {
@@ -609,7 +609,7 @@
    "chapter": "VIII. BROKEN DEALS",
    "style": "3D",
    "headline": "BLOCKADE BACK",
-   "text": "Within weeks, attacks on ships and new American strikes broke it. The blockade came back in July. As of late November 2026, talks continue in Qatar, and Iran is still closing Hormuz one day at a time.",
+   "text": "Within weeks, attacks on ships and new American strikes broke it. The blockade came back in July. As of late November 2026, talks continue through mediators in Qatar, and shipping through Hormuz remains severely disrupted.",
    "visual": "Toma 3D reutilizada de Ormuz (escena 002) con la flota de bloqueo de regreso; calendario que pasa día a día."
   },
   {
@@ -665,7 +665,7 @@
    "chapter": "IX. WHY IT DOESN'T END",
    "style": "CHAR",
    "headline": "YOUR TURN",
-   "text": "That was the entire story, from 1948 to today, told from every side. Which chapter should we explain in more detail? Tell us in the comments, and subscribe for the next one.",
+   "text": "That was an overview from 1948 to today, with the view from every side. Which chapter should we explain in more detail? Tell us in the comments, and subscribe for the next one.",
    "visual": "Stick WarMap señala los nueve capítulos en fila; botón SUBSCRIBE."
   }
  ]
