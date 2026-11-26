@@ -1,0 +1,24 @@
+{
+ "title": "The Dead Man Who Fooled Hitler",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {
+   "id": "02",
+   "style": "3D",
+   "headline": "DEAD MAN'S MISSION",
+   "text": "He never fired a shot. Yet he helped the Allies take Sicily."
+  },
+  {
+   "id": "03",
+   "style": "MAP",
+   "headline": "1943",
+   "text": "Nineteen forty-three. The Allies want to invade Sicily. It is the obvious target."
+  },
+  {
+   "id": "06",
+   "style": "CHAR",
+   "headline": "MAJOR MARTIN",
+   "text": "Love letters. Theatre tickets. And a briefcase of fake secret letters."
+  }
+ ]
+}

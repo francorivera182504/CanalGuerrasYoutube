@@ -1,0 +1,72 @@
+{
+ "title": "The Dead Man Who Fooled Hitler",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {
+   "id": "01",
+   "style": "3D",
+   "headline": "DEAD MAN'S MISSION",
+   "text": "This is the dead man who fooled Hitler."
+  },
+  {
+   "id": "02",
+   "style": "3D",
+   "headline": "DEAD MAN'S MISSION",
+   "text": "He never fired a shot. Yet he helped the Allies take Sicily."
+  },
+  {
+   "id": "03",
+   "style": "MAP",
+   "headline": "1943",
+   "text": "Nineteen forty-three. The Allies want to invade Sicily. It is the obvious target."
+  },
+  {
+   "id": "04",
+   "style": "CHAR",
+   "headline": "A FAKE SECRET",
+   "text": "So British intelligence decides to hand the Germans a fake secret."
+  },
+  {
+   "id": "05",
+   "style": "CHAR",
+   "headline": "MAJOR MARTIN",
+   "text": "They take a dead man and give him a new life: Major William Martin."
+  },
+  {
+   "id": "06",
+   "style": "CHAR",
+   "headline": "MAJOR MARTIN",
+   "text": "Love letters. Theatre tickets. And a briefcase of fake secret letters."
+  },
+  {
+   "id": "07",
+   "style": "3D",
+   "headline": "OFF SPAIN",
+   "text": "A submarine releases him off the coast of Spain."
+  },
+  {
+   "id": "08",
+   "style": "MAP",
+   "headline": "GREECE?",
+   "text": "The papers reach the Germans. They say the real target is Greece and Sardinia."
+  },
+  {
+   "id": "09",
+   "style": "MAP",
+   "headline": "WRONG PLACE",
+   "text": "Hitler sends reinforcements to the wrong places."
+  },
+  {
+   "id": "10",
+   "style": "MAP",
+   "headline": "SICILY",
+   "text": "In July, the Allies land in Sicily."
+  },
+  {
+   "id": "11",
+   "style": "CHAR",
+   "headline": "NEVER EXISTED",
+   "text": "And Major Martin? He never existed. Would you have believed him?"
+  }
+ ]
+}

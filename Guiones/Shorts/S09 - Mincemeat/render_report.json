@@ -1,0 +1,42 @@
+{
+  "approved_total_s": 45.417,
+  "encoded_duration_s": 45.43333333333333,
+  "frame_count": 1363,
+  "format": "1080x1920 30 fps",
+  "master": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S09_Mincemeat.mp4",
+    "bytes": 17423517,
+    "loudness": {
+      "input_i": "-13.99",
+      "input_tp": "-1.48",
+      "input_lra": "2.40",
+      "input_thresh": "-24.94",
+      "output_i": "-14.04",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-24.94",
+      "normalization_type": "dynamic",
+      "target_offset": "0.04"
+    },
+    "integrated_lufs": -13.99,
+    "true_peak_dbtp": -1.48
+  },
+  "upload": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S09_upload.mp4",
+    "bytes": 7972869,
+    "loudness": {
+      "input_i": "-14.02",
+      "input_tp": "-0.97",
+      "input_lra": "2.40",
+      "input_thresh": "-24.97",
+      "output_i": "-14.05",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-24.95",
+      "normalization_type": "dynamic",
+      "target_offset": "0.05"
+    },
+    "integrated_lufs": -14.02,
+    "true_peak_dbtp": -0.97
+  }
+}
