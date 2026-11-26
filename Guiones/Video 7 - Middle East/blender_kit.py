@@ -202,26 +202,26 @@ def mountain(m):
     return o
 
 def shot_fordow():
-    sky = sun(3.0, (math.radians(55), 0, math.radians(-35)), (1, 0.92, 0.85))
-    bg.inputs[0].default_value = (0.25, 0.35, 0.5, 1)
-    rock = mat("rock", (0.3, 0.24, 0.18), rough=0.95); cut = mat("cut", (0.78, 0.6, 0.4), rough=1.0, emit=0.15)
+    sky = sun(2.2, (math.radians(55), 0, math.radians(-35)), (0.75, 0.82, 1.0))
+    bg.inputs[0].default_value = (0.01, 0.015, 0.03, 1)
+    rock = mat("rock", (0.3, 0.24, 0.18), rough=0.95); cut = mat("cut", (0.55, 0.42, 0.3), rough=1.0, emit=0.08)
     mt = mountain(rock)
     # corte: media montaña con cara frontal (sección) en y=0
-    box("ground", (14, 8, 0.1), (0, 1.5, -0.05), mat("gnd", (0.5, 0.42, 0.3)))
+    box("ground", (14, 8, 0.1), (0, 1.5, -0.05), mat("gnd", (0.2, 0.17, 0.13)))
     sec = bpy.data.meshes.new("sec"); xs = [i / 40 * 12 - 6 for i in range(41)]
     vs = [(x, 0.0, 0.0) for x in xs] + [(x, 0.0, max(0, 2.6 * math.exp(-((x / 3.2) ** 2)) + 0.25 * math.sin(x * 2.1) * math.exp(-(x / 4) ** 2))) for x in xs]
     fs = [(i, i + 1, 42 + i, 41 + i) for i in range(40)]; sec.from_pydata(vs, [], fs); obj_from(sec, "section", cut)
-    hall = box("hall", (2.6, 0.2, 0.45), (0, -0.02, 0.55), mat("hallm", (0.03, 0.04, 0.06)))
-    hl = bpy.data.lights.new("hl", "POINT"); hl.energy = 12; hl.color = (0.6, 0.8, 1); hlo = bpy.data.objects.new("hl", hl); sc.collection.objects.link(hlo); hlo.location = (0, -0.4, 0.7)
+    hall = box("hall", (2.6, 0.02, 0.45), (0, -0.03, 0.55), mat("hallm", (0.03, 0.04, 0.06)))
+    hl = bpy.data.lights.new("hl", "POINT"); hl.energy = 12; hl.color = (0.6, 0.8, 1); hlo = bpy.data.objects.new("hl", hl); sc.collection.objects.link(hlo); hlo.location = (0, -0.5, 0.75)
     cm = mat("cent", (0.85, 0.88, 0.9), rough=0.3, metal=0.4)
-    for i in range(9): cyl(f"c{i}", 0.06, 0.34, (-1.1 + i * 0.27, -0.06, 0.55), cm)
+    for i in range(9): cyl(f"c{i}", 0.06, 0.34, (-1.1 + i * 0.27, -0.12, 0.55), cm)
     cam, tgt = camera(35); keys(cam, "location", [(1, Vector((-5.5, -8.0, 5.5))), (NF, Vector((-2.0, -6.0, 3.6)))]); keys(tgt, "location", [(1, Vector((0, 0.8, 1.0))), (NF, Vector((0, 0.3, 0.7)))])
     bm_ = mat("bomb", (0.3, 0.32, 0.3), metal=0.5, rough=0.4); imp = CFG["impact"]
     for k, x in enumerate((-0.6, 0.0, 0.6)):
         b = cyl(f"b{k}", 0.06, 0.7, (x, 0.6, 6), bm_); b.rotation_euler = (math.radians(-8), 0, 0)
         f1 = imp + k * 5; keys(b, "location", [(1, Vector((x, 0.6, 9))), (f1 - 25, Vector((x, 0.5, 4.5))), (f1, Vector((x, 0.25, 0.9)))])
         keys(b, "scale", [(f1, (1, 1, 1)), (f1 + 1, (0.001,) * 3)])
-        flash(Vector((x, -0.05, 0.6)), f1 + 1, 0.16, energy=600)
+        flash(Vector((x, -0.15, 0.6)), f1 + 1, 0.16, energy=180)
 
 def shot_natanz():
     bg.inputs[0].default_value = (0.005, 0.008, 0.012, 1)
@@ -246,8 +246,8 @@ def shot_natanz():
     cam, tgt = camera(26); keys(cam, "location", [(1, Vector((-5.5, -9.0, 2.6))), (NF, Vector((-2.0, -6.5, 1.7)))]); keys(tgt, "location", [(1, Vector((0, 0, 1))), (NF, Vector((0.5, -2, 0.9)))])
 
 def shot_redsea_ship():
-    bg.inputs[0].default_value = (0.55, 0.62, 0.75, 1); sun(3.5, (math.radians(65), 0, math.radians(-120)), (1, 0.8, 0.6))
-    sea = box("sea", (80, 80, 0.02), (0, 0, 0), mat("seam", (0.05, 0.18, 0.3), rough=0.15))
+    bg.inputs[0].default_value = (0.01, 0.015, 0.03, 1); sun(2.0, (math.radians(65), 0, math.radians(-120)), (1, 0.75, 0.55))
+    sea = box("sea", (400, 400, 0.02), (0, 0, 0), mat("seam", (0.02, 0.07, 0.12), rough=0.2))
     root = bpy.data.objects.new("ship", None); sc.collection.objects.link(root)
     hull = mat("hull", (0.12, 0.14, 0.2), rough=0.5); red = mat("red", (0.55, 0.1, 0.08))
     for o in (box("h", (6.0, 1.0, 0.6), (0, 0, 0.1), hull), box("hb", (6.0, 1.0, 0.2), (0, 0, -0.25), red), box("bridge", (0.6, 0.95, 0.9), (-2.4, 0, 0.85), mat("w", (0.92, 0.92, 0.9)))):
