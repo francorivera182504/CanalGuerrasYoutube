@@ -1,0 +1,30 @@
+{
+ "hook_iran": {
+  "frames": 234,
+  "impact": 127
+ },
+ "hormuz": {
+  "frames": 442,
+  "stop": 197
+ },
+ "levant67": {
+  "frames": 428
+ },
+ "iran_jets": {
+  "frames": 420,
+  "mark": 165
+ },
+ "fordow": {
+  "frames": 365,
+  "impact": 202
+ },
+ "natanz": {
+  "frames": 437,
+  "code": 238,
+  "wobble": 344
+ },
+ "redsea_ship": {
+  "frames": 439,
+  "turn": 227
+ }
+}
