@@ -1,0 +1,42 @@
+{
+  "approved_total_s": 48.176,
+  "encoded_duration_s": 48.2,
+  "frame_count": 1446,
+  "format": "1080x1920 30 fps",
+  "master": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S08_Howard.mp4",
+    "bytes": 15584569,
+    "loudness": {
+      "input_i": "-14.05",
+      "input_tp": "-1.38",
+      "input_lra": "2.70",
+      "input_thresh": "-24.85",
+      "output_i": "-14.14",
+      "output_tp": "-1.50",
+      "output_lra": "2.70",
+      "output_thresh": "-24.92",
+      "normalization_type": "dynamic",
+      "target_offset": "0.14"
+    },
+    "integrated_lufs": -14.05,
+    "true_peak_dbtp": -1.38
+  },
+  "upload": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S08_upload.mp4",
+    "bytes": 8455884,
+    "loudness": {
+      "input_i": "-14.08",
+      "input_tp": "-1.37",
+      "input_lra": "2.80",
+      "input_thresh": "-24.88",
+      "output_i": "-14.13",
+      "output_tp": "-1.50",
+      "output_lra": "2.70",
+      "output_thresh": "-24.92",
+      "normalization_type": "dynamic",
+      "target_offset": "0.13"
+    },
+    "integrated_lufs": -14.08,
+    "true_peak_dbtp": -1.37
+  }
+}

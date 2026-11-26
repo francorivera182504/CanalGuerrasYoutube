@@ -1,0 +1,72 @@
+{
+ "title": "This Pilot Fought 30 Enemy Planes Alone",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {
+   "id": "01",
+   "style": "3D",
+   "headline": "1 VS 30",
+   "text": "This pilot fought thirty enemy planes. Alone."
+  },
+  {
+   "id": "02",
+   "style": "3D",
+   "headline": "1 VS 30",
+   "text": "The bomber crews watching him could not believe it."
+  },
+  {
+   "id": "03",
+   "style": "MAP",
+   "headline": "JAN 11, 1944",
+   "text": "January eleventh, nineteen forty-four. American bombers are deep over Germany."
+  },
+  {
+   "id": "04",
+   "style": "MAP",
+   "headline": "ON HIS OWN",
+   "text": "Major James Howard flies a P-51 Mustang. In the chaos, he loses his group."
+  },
+  {
+   "id": "05",
+   "style": "CHAR",
+   "headline": "30+ FIGHTERS",
+   "text": "Then he sees it. More than thirty German fighters attacking the bombers."
+  },
+  {
+   "id": "06",
+   "style": "CHAR",
+   "headline": "NO HELP",
+   "text": "No other escorts are close. He could turn back."
+  },
+  {
+   "id": "07",
+   "style": "3D",
+   "headline": "HE ATTACKS",
+   "text": "Instead, he dives straight into them."
+  },
+  {
+   "id": "08",
+   "style": "3D",
+   "headline": "30 MINUTES",
+   "text": "For about thirty minutes, he attacks again and again."
+  },
+  {
+   "id": "09",
+   "style": "CHAR",
+   "headline": "GUNS DOWN",
+   "text": "Then three of his four guns stop firing. He keeps attacking with just one."
+  },
+  {
+   "id": "10",
+   "style": "CHAR",
+   "headline": "MEDAL OF HONOR",
+   "text": "He was credited with at least three kills, and received the Medal of Honor."
+  },
+  {
+   "id": "11",
+   "style": "CHAR",
+   "headline": "WOULD YOU?",
+   "text": "One pilot. One gun. Thirty enemies. Would you have turned back?"
+  }
+ ]
+}
