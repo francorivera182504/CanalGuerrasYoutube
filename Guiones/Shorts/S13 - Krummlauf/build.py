@@ -234,24 +234,52 @@ def hook(can, t, t0, loop=False):
     can.alpha_composite(base)
     if not loop: label(can, 'AROUND CORNERS', (540, 330), 98, t, t0 - .3, spacing=4)
 
-def rifle_view(t, z, fx, fy, heat=0.0, cracks=0.0, glow_pulse=0.0):
-    """Primer plano del fusil sobre la calle desenfocada. Devuelve (canvas, caja)."""
+def rifle_view(t, z, fx, fy, heat=0.0, cracks=0.0, glow_pulse=0.0, spot=None):
+    """Primer plano del fusil. El daño vive DENTRO del metal: tinte térmico, grietas recortadas a la silueta, retroceso y humo."""
     can = bg_street(1.25, .5, .5, dark=.45, blur=10).convert('RGBA')
-    h = 560 * z; im = scaled('rifle', h); bx, by = pt((0, 0, h / img('rifle').height), fx, fy, 'rifle')
-    x0 = int(540 - bx); y0 = int(860 - by); box = (x0, y0, h / img('rifle').height)
+    h = 560 * z; sc = h / img('rifle').height; im = scaled('rifle', h); bx, by = pt((0, 0, sc), fx, fy, 'rifle')
+    kick = -14 * z * glow_pulse ** 2                       # retroceso en cada disparo
+    x0 = int(540 - bx + kick); y0 = int(860 - by); box = (x0, y0, sc)
+    bend = pt(box, *RIFLE_BEND, 'rifle'); r = 0.085 * img('rifle').width * sc
+    if heat > 0 or cracks > 0 or spot:
+        im = im.copy(); A = np.asarray(im).astype(np.float32); alpha = A[..., 3:] / 255
+        yy, xx = np.mgrid[0:im.height, 0:im.width]; lbx, lby = bend[0] - x0, bend[1] - y0
+        g = np.clip(1 - np.hypot(xx - lbx, (yy - lby) * 1.1) / r, 0, 1) ** 1.2     # gradiente desde la curva
+        k = (g * min(1, heat) * (.8 + .15 * glow_pulse))[..., None]
+        if spot:
+            g2 = np.clip(1 - np.hypot(xx - (spot[0] - x0), yy - (spot[1] - y0)) / (r * .45), 0, 1) ** 1.3; k = np.maximum(k, g2[..., None] * .95)
+        dark = A[..., :3].mean(-1, keepdims=True) < 60                            # no teñir los contornos negros
+        c1 = np.array((200, 50, 25), np.float32); c2 = np.array((255, 150, 50), np.float32); c3 = np.array((255, 225, 140), np.float32)
+        hot = np.where(k < .45, c1 + (c2 - c1) * (k / .45), c2 + (c3 - c2) * np.clip((k - .45) / .4, 0, 1))
+        A[..., :3] = np.where(dark, A[..., :3] * (1 - .15 * k) + hot * .15 * k, A[..., :3] * (1 - k) + hot * k)
+        if cracks > 0:                                                            # grietas que crecen dentro del metal
+            cl = Image.new('L', im.size); cd = ImageDraw.Draw(cl); hl = Image.new('L', im.size); hd = ImageDraw.Draw(hl)
+            for i in range(7):
+                start = .12 * i
+                if cracks <= start: continue
+                grow = min(1, (cracks - start) / .45); ang = (hsh(i, 7) - .5) * 2.6 + (math.pi if i % 2 else 0)
+                q = (lbx + (hsh(i, 9) - .5) * r * .5, lby + (hsh(i, 10) - .5) * r * .25); pts = [q]
+                for s in range(int(2 + 6 * grow)):
+                    ang += (hsh(i, s + 20) - .5) * 1.1; L_ = r * .09
+                    q = (q[0] + math.cos(ang) * L_, q[1] + math.sin(ang) * L_ * .6); pts.append(q)
+                wdt = max(2, int(r * .022))
+                cd.line(pts, fill=255, width=wdt + 3); hd.line(pts, fill=255, width=max(1, wdt - 2))
+            m = np.asarray(cl).astype(np.float32)[..., None] / 255 * (alpha > .5); mh = np.asarray(hl).astype(np.float32)[..., None] / 255 * (alpha > .5)
+            A[..., :3] = A[..., :3] * (1 - m) + np.array((20, 12, 8)) * m                        # borde oscuro
+            A[..., :3] = A[..., :3] * (1 - mh) + np.array((255, 200, 90)) * mh * min(1, heat + .3)   # núcleo incandescente
+        im = Image.fromarray(np.clip(A, 0, 255).astype(np.uint8))
+        if heat > .25:                                                           # resplandor pegado al metal (no un círculo)
+            bloom = Image.fromarray((np.clip(g * heat * alpha[..., 0] * 255, 0, 255)).astype(np.uint8)).filter(ImageFilter.GaussianBlur(r * .12))
+            glow = Image.new('RGBA', im.size, (255, 110, 30, 0)); glow.putalpha(bloom.point(lambda v: int(v * .7)))
+            can.alpha_composite(glow, (x0, y0))
     can.paste(im, (x0, y0), im)
-    bend = pt(box, *RIFLE_BEND, 'rifle')
-    if heat > 0:
-        lay = Image.new('RGBA', can.size); d = ImageDraw.Draw(lay); r = 130 * z / 2.2
-        d.ellipse((bend[0] - r, bend[1] - r, bend[0] + r, bend[1] + r), fill=(255, 70, 20, int(170 * heat * (.75 + .25 * glow_pulse))))
-        lay = lay.filter(ImageFilter.GaussianBlur(r * .45)); can.alpha_composite(lay)
-    if cracks > 0:
-        d = ImageDraw.Draw(can)
-        for i in range(int(6 * cracks) + 1):
-            a = hsh(i, 7) * 6.28; L = (40 + 70 * hsh(i, 8)) * z / 2.2 * min(1, cracks * 2)
-            p = bend; pts = [p]
-            for s in range(4): p = (p[0] + math.cos(a + (hsh(i, s) - .5)) * L / 4, p[1] + math.sin(a + (hsh(i, s) - .5)) * L / 4); pts.append(p)
-            d.line(pts, fill=(15, 10, 8), width=max(3, int(5 * z / 2.2)))
+    if heat > .45:                                                               # humo que sube de la zona caliente
+        lay = Image.new('RGBA', can.size); d = ImageDraw.Draw(lay)
+        for i in range(6):
+            u = (t * .7 + hsh(i, 31)) % 1; rr = r * (.08 + .18 * u)
+            px = bend[0] + (hsh(i, 32) - .5) * r * .6 + 30 * u; py = bend[1] - r * .1 - u * r * 1.1
+            d.ellipse((px - rr, py - rr, px + rr, py + rr), fill=(70, 70, 72, int(120 * (1 - u) * min(1, (heat - .45) * 3))))
+        can.alpha_composite(lay.filter(ImageFilter.GaussianBlur(10)))
     return can, box
 
 def frame(t, preview=False):
@@ -330,13 +358,13 @@ def frame(t, preview=False):
             label(c, 'HEAD STAYS DOWN', (540, 330), 70, t, wt('06', 'head'), spacing=5)
         can.alpha_composite(c)
     elif t < s('08'):                                 # 07 la bala no quiere girar: raspa la curva
-        z = 2.6; c, box = rifle_view(t, z, *RIFLE_BEND, heat=.35)
-        bend = pt(box, *RIFLE_BEND, 'rifle'); mz = pt(box, *RIFLE_MUZZLE, 'rifle')
-        path = [(bend[0] - 700, bend[1] - 20)] + bezier((bend[0] - 250, bend[1] - 8), (bend[0] + 60, bend[1]), (mz[0], mz[1]), 30)
-        period = 1.1; v = ((t - s('07')) % period) / period
-        i = int(v * (len(path) - 1)); p = path[i]; d = ImageDraw.Draw(c)
-        d.ellipse((p[0] - 22, p[1] - 12, p[0] + 22, p[1] + 12), fill=(215, 170, 70), outline=(20, 15, 5), width=4)
-        if abs(p[0] - bend[0]) < 260: sparks(c, p[0], p[1] - 10, t, int(t * 5), n=12, ang=-1.6)
+        z = 2.6; sc = 560 * z / img('rifle').height; iw, ih = img('rifle').size
+        bend = (540, 860); mz = (540 + (RIFLE_MUZZLE[0] - RIFLE_BEND[0]) * iw * sc, 860 + (RIFLE_MUZZLE[1] - RIFLE_BEND[1]) * ih * sc)
+        path = [(bend[0] - 700, bend[1] - 10)] + bezier((bend[0] - 250, bend[1] - 4), (bend[0] + 60, bend[1] + 10), mz, 30)
+        period = 1.1; v = ((t - s('07') - .2) % period) / period; spot = path[int(v * (len(path) - 1))]
+        c, box = rifle_view(t, z, *RIFLE_BEND, heat=.35, spot=spot)
+        if abs(spot[0] - bend[0]) < 220: sparks(c, spot[0] + 10, spot[1] + 30, t, int(t * 5), n=9, ang=1.3, spread=.6)
+        if v > .93: flash(c, mz[0], mz[1], 110, 1, ang=.9)
         label(c, 'SCRAPE', (540, 330), 96, t, wt('07', 'scrapes'), spacing=8, pop=True)
         can.alpha_composite(c)
     elif t < s('09'):                                 # 08 ~300 disparos
