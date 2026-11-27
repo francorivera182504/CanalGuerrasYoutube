@@ -25,3 +25,8 @@ Twelve wounded Americans. One Australian stretcher-bearer. Bull Allen kept going
 
 ## NOTAS
 Revisar a las 24–48 h: objetivo de ≥65 % «se quedaron a mirar».
+
+## ESTADO (27-nov)
+- YouTube: subido, todo lleno (Público, no para niños, IA No, Inglés RU, 15 etiquetas, relacionado: Why Did Japan Attack Pearl Harbor?). Falta que Franco presione **Publicar**.
+- TikTok: publicado "Ahora / Todo el mundo"; en revisión de contenido (~10 min).
+- Fijar comentario cuando esté en vivo.
