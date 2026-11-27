@@ -83,3 +83,8 @@ Para nosotros: una serie "You Are the Soldier" con Stick 3D, mapa neón y Blende
 ## 7. Qué revisar tras publicar
 - **Shorts:** a las 24–48 h, "Stayed to watch" (viewed vs swiped) y la retención de los primeros 3 s. Comparar con el S02 a la misma edad.
 - **Largos:** a las 24 h, el CTR por fuente; a las 48 h, la retención de 0:00–0:30. No tocar título ni miniatura mientras corre un Test & Compare.
+
+## 27-nov-2026 — No ser un canal de plantilla
+- Nuestra plantilla (fondo cuadrícula azul oscuro, mapa neón cian, titular en cápsula, subtítulo en caja negra con palabra amarilla) es la que generan las herramientas de IA: otros canales la usan igual y la gente la desliza (nosotros 58 % se quedan; TikTok ~100–130 vistas; @nextlevel6041 con el mismo diseño ~480).
+- Lo que funciona en el nicho (Map Extra, MapLore: 3–9 M vistas): mapa real a pantalla completa como escenario, íconos y personajes integrados en la geografía, rutas punteadas, texto mínimo, 70–160 s, títulos con pregunta o contradicción.
+- Regla: antes de renderizar, revisar que no quede ningún elemento de plantilla. Primera prueba del estilo nuevo: S11 Bull Allen.
