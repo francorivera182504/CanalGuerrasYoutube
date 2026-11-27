@@ -1,0 +1,66 @@
+{
+ "title": "How This Rifle Fired Around Corners",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {
+   "id": "01",
+   "style": "HOOK",
+   "headline": "AROUND CORNERS",
+   "text": "This rifle could shoot around corners."
+  },
+  {
+   "id": "02",
+   "style": "HOOK",
+   "headline": "",
+   "text": "And every bullet was slowly destroying it."
+  },
+  {
+   "id": "03",
+   "style": "MAP",
+   "headline": "",
+   "text": "Germany, nineteen forty-five. Soviet troops advance west through streets and ruins."
+  },
+  {
+   "id": "04",
+   "style": "CHAR",
+   "headline": "",
+   "text": "German tank crews have a problem. Enemy soldiers get too close for the tank's guns."
+  },
+  {
+   "id": "05",
+   "style": "CHAR",
+   "headline": "",
+   "text": "So engineers add a curved extension. The Krummlauf. Thirty degrees for infantry. Ninety for tanks."
+  },
+  {
+   "id": "06",
+   "style": "CHAR",
+   "headline": "",
+   "text": "A mirror sight lets the soldier aim without showing his head."
+  },
+  {
+   "id": "07",
+   "style": "CHAR",
+   "headline": "",
+   "text": "But a bullet doesn't want to turn. It scrapes the curve on every shot."
+  },
+  {
+   "id": "08",
+   "style": "CHAR",
+   "headline": "",
+   "text": "The thirty-degree attachment lasted roughly three hundred rounds."
+  },
+  {
+   "id": "09",
+   "style": "CHAR",
+   "headline": "",
+   "text": "Only limited numbers were made before the war ended."
+  },
+  {
+   "id": "10",
+   "style": "CHAR",
+   "headline": "",
+   "text": "Would you trust a gun that shoots around corners?"
+  }
+ ]
+}
