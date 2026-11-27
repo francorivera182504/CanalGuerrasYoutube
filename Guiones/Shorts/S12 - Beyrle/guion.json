@@ -1,0 +1,72 @@
+{
+ "title": "The Soldier Who Fought for America and the Soviet Union",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {
+   "id": "01",
+   "style": "3D",
+   "headline": "BOTH SIDES",
+   "text": "The soldier who fought for America. And the Soviet Union."
+  },
+  {
+   "id": "02",
+   "style": "3D",
+   "headline": "BOTH SIDES",
+   "text": "Same war. Two armies. One man."
+  },
+  {
+   "id": "03",
+   "style": "MAP",
+   "headline": "D-DAY 1944",
+   "text": "June sixth, nineteen forty-four. Joseph Beyrle jumps into Normandy with the hundred and first Airborne."
+  },
+  {
+   "id": "04",
+   "style": "CHAR",
+   "headline": "CAPTURED",
+   "text": "He is captured by the Germans. Back home, his family is told he is dead."
+  },
+  {
+   "id": "05",
+   "style": "CHAR",
+   "headline": "ESCAPE",
+   "text": "He escapes. He is caught. He escapes again."
+  },
+  {
+   "id": "06",
+   "style": "MAP",
+   "headline": "RUN EAST",
+   "text": "January, nineteen forty-five. He breaks out of a prison camp and runs toward the Soviet army."
+  },
+  {
+   "id": "07",
+   "style": "CHAR",
+   "headline": "DON'T SHOOT",
+   "text": "He walks out with his hands up, shouting: American comrade!"
+  },
+  {
+   "id": "08",
+   "style": "CHAR",
+   "headline": "SOVIET TANKS",
+   "text": "A Soviet tank unit lets him join. He fights with them for about a month."
+  },
+  {
+   "id": "09",
+   "style": "CHAR",
+   "headline": "WOUNDED",
+   "text": "Then he is badly wounded and sent to a Soviet hospital."
+  },
+  {
+   "id": "10",
+   "style": "CHAR",
+   "headline": "HOME",
+   "text": "He reaches Moscow, then America. Alive. The man his family had mourned."
+  },
+  {
+   "id": "11",
+   "style": "CHAR",
+   "headline": "WOULD YOU?",
+   "text": "Would you have trusted them?"
+  }
+ ]
+}

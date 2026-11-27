@@ -358,8 +358,8 @@ def charscene(t,sid):
 
 def reconstruction(t,sid,preview):
     can=r3('hook',int(t*FPS)+1,preview)
-    if t>=wt('01','gun'):stamp_word(can,'NO GUN',(495,1260),76,RED,t,wt('01','gun'),380,150)
-    if sid=='02' and t>=wt('02','One'):cchip(can,'ONE BY ONE',495,1120,YEL,46)
+    if t>=wt('01','gun'):stamp_word(can,'UNARMED',(320,880),66,RED,t,wt('01','gun'),470,140)
+    if sid=='02' and t>=wt('02','One'):cchip(can,'ONE BY ONE',320,1060,YEL,46)
     return can
 
 SHAKES=[(1/30,16,.3),(98/30,12,.26),(154/30,12,.26),(191/30,10,.24),(wt('06','counterattack'),10,.24),(wt('10','Medal'),8,.2)]

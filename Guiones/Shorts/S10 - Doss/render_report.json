@@ -5,7 +5,7 @@
   "format": "1080x1920 30 fps",
   "master": {
     "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S10_Doss.mp4",
-    "bytes": 9979294,
+    "bytes": 9390949,
     "loudness": {
       "input_i": "-14.01",
       "input_tp": "-1.56",
@@ -23,7 +23,7 @@
   },
   "upload": {
     "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S10_upload.mp4",
-    "bytes": 8642813,
+    "bytes": 8695859,
     "loudness": {
       "input_i": "-14.03",
       "input_tp": "-1.15",

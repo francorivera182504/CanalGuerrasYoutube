@@ -1,0 +1,72 @@
+{
+ "title": "This Soldier Carried 12 Wounded Men Through Enemy Fire",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {
+   "id": "01",
+   "style": "3D",
+   "headline": "12 MEN",
+   "text": "This soldier carried twelve wounded men through enemy fire."
+  },
+  {
+   "id": "02",
+   "style": "3D",
+   "headline": "12 MEN",
+   "text": "On his shoulders. One at a time."
+  },
+  {
+   "id": "03",
+   "style": "MAP",
+   "headline": "NEW GUINEA 1943",
+   "text": "July, nineteen forty-three. New Guinea. Allied troops attack Japanese positions on Mount Tambu."
+  },
+  {
+   "id": "04",
+   "style": "CHAR",
+   "headline": "BULL",
+   "text": "Leslie Allen is an Australian stretcher-bearer. Big and strong. His mates call him Bull."
+  },
+  {
+   "id": "05",
+   "style": "CHAR",
+   "headline": "PINNED DOWN",
+   "text": "American soldiers fighting beside them are pinned down. Many are hit."
+  },
+  {
+   "id": "06",
+   "style": "CHAR",
+   "headline": "2 MEDICS DOWN",
+   "text": "Machine guns sweep the slope. Two medics have already been killed."
+  },
+  {
+   "id": "07",
+   "style": "CHAR",
+   "headline": "HE GOES IN",
+   "text": "Bull goes in anyway. He lifts a wounded man onto his shoulders and carries him back."
+  },
+  {
+   "id": "08",
+   "style": "CHAR",
+   "headline": "AGAIN",
+   "text": "Then he goes back. Again. And again."
+  },
+  {
+   "id": "09",
+   "style": "CHAR",
+   "headline": "12 MEN",
+   "text": "Twelve American soldiers carried out of the fire."
+  },
+  {
+   "id": "10",
+   "style": "CHAR",
+   "headline": "SILVER STAR",
+   "text": "The United States gave him the Silver Star. For bringing those wounded men to safety."
+  },
+  {
+   "id": "11",
+   "style": "CHAR",
+   "headline": "WOULD YOU?",
+   "text": "Would you have gone back a second time?"
+  }
+ ]
+}
