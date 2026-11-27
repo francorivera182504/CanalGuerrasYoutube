@@ -1,0 +1,42 @@
+{
+  "approved_total_s": 49.779,
+  "encoded_duration_s": 49.8,
+  "frame_count": 1494,
+  "format": "1080x1920 30 fps",
+  "master": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S10_Doss.mp4",
+    "bytes": 9979294,
+    "loudness": {
+      "input_i": "-14.01",
+      "input_tp": "-1.56",
+      "input_lra": "1.70",
+      "input_thresh": "-24.94",
+      "output_i": "-14.05",
+      "output_tp": "-1.50",
+      "output_lra": "1.80",
+      "output_thresh": "-25.01",
+      "normalization_type": "dynamic",
+      "target_offset": "0.05"
+    },
+    "integrated_lufs": -14.01,
+    "true_peak_dbtp": -1.56
+  },
+  "upload": {
+    "path": "E:\\Historias TIK\\WarMap Stick\\Render\\Shorts\\S10_upload.mp4",
+    "bytes": 8642813,
+    "loudness": {
+      "input_i": "-14.03",
+      "input_tp": "-1.15",
+      "input_lra": "1.80",
+      "input_thresh": "-24.96",
+      "output_i": "-14.05",
+      "output_tp": "-1.50",
+      "output_lra": "1.80",
+      "output_thresh": "-25.01",
+      "normalization_type": "dynamic",
+      "target_offset": "0.05"
+    },
+    "integrated_lufs": -14.03,
+    "true_peak_dbtp": -1.15
+  }
+}

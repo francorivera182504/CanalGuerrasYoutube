@@ -1,0 +1,72 @@
+{
+ "title": "This Medic Saved 75 Men Without a Gun",
+ "voice": "en-GB-RyanNeural",
+ "scenes": [
+  {
+   "id": "01",
+   "style": "3D",
+   "headline": "NO GUN",
+   "text": "This medic saved about seventy-five men. Without a gun."
+  },
+  {
+   "id": "02",
+   "style": "3D",
+   "headline": "NO GUN",
+   "text": "He lowered them down a cliff. One by one."
+  },
+  {
+   "id": "03",
+   "style": "MAP",
+   "headline": "OKINAWA 1945",
+   "text": "May, nineteen forty-five. Okinawa. American soldiers fight for a giant cliff."
+  },
+  {
+   "id": "04",
+   "style": "CHAR",
+   "headline": "NO RIFLE",
+   "text": "Desmond Doss is an army medic. His faith says he must not kill. He refuses to carry a rifle."
+  },
+  {
+   "id": "05",
+   "style": "CHAR",
+   "headline": "COWARD?",
+   "text": "In training, other soldiers called him a coward."
+  },
+  {
+   "id": "06",
+   "style": "CHAR",
+   "headline": "RETREAT",
+   "text": "Then a Japanese counterattack hits the top of the cliff. The Americans pull back."
+  },
+  {
+   "id": "07",
+   "style": "CHAR",
+   "headline": "HE STAYS",
+   "text": "Doss stays. Under fire, he drags the wounded to the edge."
+  },
+  {
+   "id": "08",
+   "style": "CHAR",
+   "headline": "ONE MORE",
+   "text": "He ties each man to a rope and lowers him down. Lord, he prays, help me get one more."
+  },
+  {
+   "id": "09",
+   "style": "CHAR",
+   "headline": "75 MEN",
+   "text": "By the end, he had saved about seventy-five men."
+  },
+  {
+   "id": "10",
+   "style": "CHAR",
+   "headline": "MEDAL OF HONOR",
+   "text": "He received the Medal of Honor. The soldier who never carried a gun."
+  },
+  {
+   "id": "11",
+   "style": "CHAR",
+   "headline": "WOULD YOU?",
+   "text": "Would you have stayed on that cliff?"
+  }
+ ]
+}
