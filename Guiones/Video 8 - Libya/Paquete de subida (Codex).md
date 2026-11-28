@@ -127,3 +127,8 @@ Los identificadores S01–S22 se reutilizan en los JSON. Las fechas son de publi
 - S20 — AP, 07-04-2026, [Arctic Metagaz y supuesta presencia ucraniana en Libia](https://apnews.com/article/4b9ec378ea1bf064d13cfe4ea026d2d4).
 - S21 — Inteligencia militar ucraniana, 14-02-2024, [archivo oficial de noticias con anuncio Caesar Kunikov](https://gur.gov.ua/ua/content/list-of-news/242); [Interfax, mismo día, reproduce el anuncio](https://en.interfax.com.ua/news/general/967060.html).
 - S22 — Reuters, 26-11-2026, [acusación rusa de ampliación del conflicto](https://www.streetinsider.com/Reuters/Kremlin%2Baccuses%2BUkraine%2Bof%2Btrying%2Bto%2Bwiden%2Bconflict%2Bzone%2Bto%2BMediterranean%2Band%2BBaltic%2Bseas/27404446.html).
+
+## ESTADO (28-nov, Claude)
+- YouTube: subido como "Why Ukraine Struck Russian Ships in Libya"; Test & Compare con las 3 miniaturas (empieza cuando sea público); Inglés RU; 19 etiquetas; programado 28-nov 12:00 p.m. (GMT-5). Falta que Franco presione **Programar**.
+- TikTok: programado 28-nov 12:00 p.m. (GMT-5).
+- Pendiente: fijar el comentario cuando esté en vivo.

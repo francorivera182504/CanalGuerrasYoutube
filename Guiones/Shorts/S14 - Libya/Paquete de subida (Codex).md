@@ -54,3 +54,8 @@ Assets generados con la herramienta integrada image_gen, referencia visual `Guio
 - Cambios visuales a 0 / 0,9 / 1,8 / 2,7 / 3,6 / 4,5 s.
 - chk_00…05.jpg, sheet.jpg y hook_revision.jpg extraídos del MP4 de subida. Decodificación completa sin errores ni intervalos negros.
 - Informe: render_report.json. Reproducción: python build.py; python qa.py.
+
+## ESTADO (28-nov, Claude)
+- YouTube: subido como "Why Ukraine Hit Russia in Libya"; Inglés RU; 21 etiquetas; video relacionado provisional: "The Russia–Ukraine War Explained in 6 Minutes" (el largo de Libia aún no aparece en el selector; cambiarlo cuando esté público). Programado 28-nov 12:00 p.m. (GMT-5). Falta que Franco presione **Programar**.
+- TikTok: programado 28-nov 12:00 p.m. (GMT-5).
+- Pendiente: fijar el comentario cuando esté en vivo.
