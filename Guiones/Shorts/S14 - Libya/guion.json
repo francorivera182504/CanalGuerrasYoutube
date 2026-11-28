@@ -1,0 +1,66 @@
+{
+  "title": "Why Ukraine Hit Russia in Libya",
+  "voice": "en-GB-RyanNeural",
+  "scenes": [
+    {
+      "id": "01",
+      "style": "HOOK",
+      "headline": "RUSSIA HIT IN LIBYA",
+      "text": "Ukraine hit Russia in Libya."
+    },
+    {
+      "id": "02",
+      "style": "HOOK",
+      "headline": "",
+      "text": "But why were Russian warships there in the first place?"
+    },
+    {
+      "id": "03",
+      "style": "MAP",
+      "headline": "",
+      "text": "Before dawn on November twenty-second, naval drones struck Benghazi."
+    },
+    {
+      "id": "04",
+      "style": "CHAR",
+      "headline": "",
+      "text": "Kyiv says seven boats launched from a mothership, wrecking the corvette Merkury and hitting the cargo ship Angara."
+    },
+    {
+      "id": "05",
+      "style": "MAP",
+      "headline": "",
+      "text": "Kyiv links Angara to military supply routes through Syria and Libya."
+    },
+    {
+      "id": "06",
+      "style": "MAP",
+      "headline": "",
+      "text": "Libya gives Russia access to operations deeper inside Africa."
+    },
+    {
+      "id": "07",
+      "style": "MAP",
+      "headline": "",
+      "text": "Tartus still matters too. Russia kept resupplying its Syrian facilities."
+    },
+    {
+      "id": "08",
+      "style": "CHAR",
+      "headline": "",
+      "text": "But the strike had consequences: two Libyan naval officers later died, according to eastern forces."
+    },
+    {
+      "id": "09",
+      "style": "MAP",
+      "headline": "",
+      "text": "Reuters says a Russian convoy heading for Libya turned back."
+    },
+    {
+      "id": "10",
+      "style": "CHAR",
+      "headline": "",
+      "text": "Does hitting these routes weaken Russia, or spread the war?"
+    }
+  ]
+}

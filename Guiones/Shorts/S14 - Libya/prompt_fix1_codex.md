@@ -1,0 +1,5 @@
+Revisión de Claude del Short `Guiones/Shorts/S14 - Libya/` (Render/Shorts/S14_Libya.mp4). Corrige, vuelve a renderizar máster y upload (≤10 MB, −14 LUFS) y regenera `_prep/chk_00…05.jpg` y `_prep/sheet.jpg`. Responde en español y breve.
+
+1. La explosión del hook es un sprite de estrella naranja estático pegado al casco: Franco ya rechazó esto en el S13 ("parece un PNG encima"). Hazla ANIMADA e integrada: el dron naval entra con estela desde el cuadro 0 y golpea a ~0.25 s; bola de fuego que crece y se deforma cuadro a cuadro, destello que ilumina el casco y el agua, chispas y restos con física, columna de agua, humo que sube, temblor de cámara y la corbeta que se escora. Repite el mismo criterio en cualquier otra explosión del Short.
+2. Entre 1 s y 2 s el marinero tapa casi todo y el barco queda chiquito al fondo; mantén el barco y el impacto como foco (sujeto ≥40 % de la altura) y que el marinero reaccione en un lado sin tapar la acción.
+3. Cambio visual claro cada ≤1.5 s hasta los 5 s.

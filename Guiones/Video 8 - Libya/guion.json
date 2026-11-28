@@ -1,0 +1,3142 @@
+{
+  "title": "Why Ukraine Struck Russian Ships in Libya",
+  "keyword": "Ukraine Libya naval drone attack / Merkury Benghazi / Russia Africa Corps",
+  "voice": "en-GB-RyanNeural",
+  "rule": "Narración inglesa revisada a partir de Datos (Codex).md, corte 28-11-2026. Frases completas por escena, sin metanarración editorial. Sin titular superior. Mapas reales a pantalla completa. Reconstrucciones rotuladas junto a la acción. Secuencias de botadura conceptuales sin ubicación o ruta ficticia. Cortes visuales como máximo cada 8 segundos; tiempos finales en timeline.json medidos con Ryan +4%.",
+  "scenes": [
+    {
+      "id": "001",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "3D",
+      "headline": "",
+      "text": "Ukraine strikes Russia, in Libya.",
+      "visual": "Cuadro 0: explosi?n ya en curso junto a la corbeta en una reconstrucci?n 3D del puerto de Benghazi. Cortes al casco a 0.7 s y a plano elevado a 1.4 s. Fuego y humo 3D, advertencia integrada junto al agua, sin titular superior. No retrasar el cl?max.",
+      "start_seconds": 0.0,
+      "duration_seconds": 2.8659,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "002",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "On the twenty-second of November, twenty twenty-six, explosions tore through a Russian naval stopover at Benghazi.",
+      "visual": "Vista coast; acci?n harbour; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 2.8659,
+      "duration_seconds": 7.261,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "003",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "The following day, Ukraine publicly claimed the operation.",
+      "visual": "Vista coast; acci?n harbour; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 10.1269,
+      "duration_seconds": 4.0416,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "004",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "A Russian warship lay wrecked beside a Libyan quay, and a second vessel had been hit nearby.",
+      "visual": "Vista coast; acci?n harbour; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 14.1685,
+      "duration_seconds": 5.9252,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "005",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "What was this war doing on Africa's Mediterranean coast?",
+      "visual": "Vista med; acci?n map; elemento corvette; lugares UKRAINE, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 20.0938,
+      "duration_seconds": 3.8016,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "006",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "The first target was Merkury, a Russian corvette commissioned in twenty twenty-three.",
+      "visual": "Vista coast; acci?n harbour; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 23.8954,
+      "duration_seconds": 5.0029,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "007",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Ukrainian officials said their drones had sunk it.",
+      "visual": "Vista coast; acci?n wreck; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 28.8983,
+      "duration_seconds": 3.3871,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "008",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Satellite imagery distributed by Reuters showed a capsized corvette at the port.",
+      "visual": "Vista coast; acci?n wreck; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 32.2854,
+      "duration_seconds": 5.0696,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "009",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "The ship had overturned beside the quay, leaving part of its hull visible above the water.",
+      "visual": "Vista coast; acci?n wreck; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 37.3549,
+      "duration_seconds": 5.4574,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "010",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Ukraine's security service, the SBU, said seven domestically made unmanned boats took part.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: SBU ACCOUNT / LOCATION UNCLEAR. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 42.8123,
+      "duration_seconds": 6.7665,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "011",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "According to the SBU, they were launched from a mother ship.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: SBU ACCOUNT / LOCATION UNCLEAR. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 49.5788,
+      "duration_seconds": 3.9616,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "012",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Its identity and exact location are still unclear.",
+      "visual": "Vista coast; acci?n harbour; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 53.5404,
+      "duration_seconds": 3.7483,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "013",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "So is the route the boats followed before reaching Benghazi.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: SBU ACCOUNT / LOCATION UNCLEAR. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 57.2887,
+      "duration_seconds": 3.5471,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "014",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "That uncertainty leaves a question hanging over the operation: how did the attackers get so close?",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: SBU ACCOUNT / LOCATION UNCLEAR. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 60.8358,
+      "duration_seconds": 5.8719,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "015",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "The second target was Angara, a dry cargo ship.",
+      "visual": "Vista coast; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 66.7077,
+      "duration_seconds": 3.9616,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "016",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Kyiv says it carried weapons for Russia's military operations.",
+      "visual": "Vista coast; acci?n harbour; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 70.6694,
+      "duration_seconds": 3.9616,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "017",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Its precise cargo remains unclear, and the extent of the damage has not been independently confirmed.",
+      "visual": "Vista coast; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 74.631,
+      "duration_seconds": 6.5664,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "018",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Angara was struck, but there is no confirmation that it sank.",
+      "visual": "Vista coast; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 81.1974,
+      "duration_seconds": 4.2817,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "019",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "It was a different kind of target from the corvette, with a different role in the story.",
+      "visual": "Vista coast; acci?n harbour; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 85.4791,
+      "duration_seconds": 4.6828,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "020",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Libyan officials described intercepted drones and several impacts on the warship.",
+      "visual": "Vista coast; acci?n harbour; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 90.1619,
+      "duration_seconds": 5.1774,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "021",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Their initial investigation suggested a complicated assault, although the exact sequence remains unclear.",
+      "visual": "Vista coast; acci?n harbour; elemento corvette; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 95.3393,
+      "duration_seconds": 6.4053,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "022",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "There was also a human cost.",
+      "visual": "Vista coast; acci?n official; elemento libyan; lugares BENGHAZI; nota integrada: ACCORDING TO THE LNA. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 101.7446,
+      "duration_seconds": 2.4525,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "023",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "According to the Libyan National Army, two Libyan naval officers later died from their wounds.",
+      "visual": "Vista coast; acci?n official; elemento libyan; lugares BENGHAZI; nota integrada: ACCORDING TO THE LNA. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 104.1971,
+      "duration_seconds": 5.9652,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "024",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Families in Libya were now paying a price for a war centred far away.",
+      "visual": "Vista coast; acci?n official; elemento libyan; lugares BENGHAZI; nota integrada: ACCORDING TO THE LNA. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 110.1624,
+      "duration_seconds": 4.4295,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "025",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "The damaged ships were connected to something much larger than a single port visit.",
+      "visual": "Vista africa; acci?n logistics; elemento aircraft; lugares LIBYA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 114.5918,
+      "duration_seconds": 4.7228,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "026",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "Russia's presence here reaches from the Mediterranean coast towards military partners deep inside Africa.",
+      "visual": "Vista africa; acci?n logistics; elemento aircraft; lugares LIBYA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 119.3147,
+      "duration_seconds": 6.1786,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "027",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "A warship can protect that presence, while a cargo vessel helps keep it supplied.",
+      "visual": "Vista coast; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 125.4933,
+      "duration_seconds": 5.2974,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "028",
+      "chapter": "I. THE STRIKE AT BENGHAZI",
+      "style": "MAP",
+      "headline": "",
+      "text": "To understand why Ukraine would strike here, follow the network behind the ships.",
+      "visual": "Vista africa; acci?n logistics; elemento aircraft; lugares LIBYA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 130.7906,
+      "duration_seconds": 5.324,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S07",
+        "S08"
+      ],
+      "soften": []
+    },
+    {
+      "id": "029",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Start with Libya's divided political landscape.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 136.1147,
+      "duration_seconds": 3.3871,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "030",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Tripoli hosts the internationally recognised government in the west.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 139.5018,
+      "duration_seconds": 4.0683,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "031",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Khalifa Haftar's Libyan National Army dominates the east and much of the south, according to the Associated Press.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 143.5701,
+      "duration_seconds": 6.8598,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "032",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Benghazi belongs to that eastern power centre, where Russia has cultivated ties with Haftar's forces.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 150.4299,
+      "duration_seconds": 6.2853,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "033",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Those divisions matter when foreign ships arrive.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 156.7152,
+      "duration_seconds": 3.2538,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "034",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "An agreement with authorities in the east does not give Moscow permission from the government in Tripoli.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 159.9689,
+      "duration_seconds": 5.4974,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "035",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "At the same time, Tripoli cannot fully control what happens across Haftar's territory.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 165.4663,
+      "duration_seconds": 5.3507,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "036",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "There is no single Libyan authority making every decision about foreign military access.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 170.817,
+      "duration_seconds": 5.5107,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "037",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "That helps explain why reactions to the attack can pull in different directions.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 176.3278,
+      "duration_seconds": 4.8429,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "038",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Russia's military relationship with Haftar predates the Benghazi strike by years.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 181.1706,
+      "duration_seconds": 5.1107,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "039",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "In May twenty twenty, the United States Africa Command said Russian combat aircraft had arrived to support Wagner personnel.",
+      "visual": "Vista libya; acci?n flight; elemento aircraft; lugares TRIPOLI, BENGHAZI; nota integrada: US AFRICOM / MAY 2020. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 186.2813,
+      "duration_seconds": 7.781,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "040",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "It released imagery alongside that assessment.",
+      "visual": "Vista libya; acci?n flight; elemento aircraft; lugares TRIPOLI, BENGHAZI; nota integrada: US AFRICOM / MAY 2020. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 194.0623,
+      "duration_seconds": 3.0271,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "041",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Russia's involvement was already about more than occasional visits by ships.",
+      "visual": "Vista libya; acci?n politics; elemento haftar; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 197.0894,
+      "duration_seconds": 4.5228,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "042",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Wagner's activities have since overlapped with the rise of Africa Corps, which is more directly tied to the Russian state.",
+      "visual": "Vista libya; acci?n politics; elemento putin; lugares TRIPOLI, BENGHAZI; nota integrada: RUSSIAN MILITARY PRESENCE. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 201.6122,
+      "duration_seconds": 7.0332,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "043",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Analysts describe Moscow tightening its control over parts of its African military presence.",
+      "visual": "Vista libya; acci?n politics; elemento putin; lugares TRIPOLI, BENGHAZI; nota integrada: RUSSIAN MILITARY PRESENCE. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 208.6454,
+      "duration_seconds": 5.9386,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "044",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "The transition has been uneven, with different arrangements in different countries.",
+      "visual": "Vista libya; acci?n politics; elemento putin; lugares TRIPOLI, BENGHAZI; nota integrada: RUSSIAN MILITARY PRESENCE. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 214.5839,
+      "duration_seconds": 4.8029,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "045",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Behind the changing names, forces still need equipment, transport and places to operate.",
+      "visual": "Vista libya; acci?n logistics; elemento aid_truck; lugares BENGHAZI, JUFRA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 219.3868,
+      "duration_seconds": 6.1653,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "046",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "A March twenty twenty-five analysis by the European Council on Foreign Relations described a network of Libyan locations.",
+      "visual": "Vista libya; acci?n nodes; elemento haftar; lugares TOBRUK, AL-KHADIM, SIRTE, JUFRA; nota integrada: NETWORK DESCRIBED / MARCH 2025. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 225.5521,
+      "duration_seconds": 7.7544,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "047",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "It included Tobruk, al-Khadim, Sirte, Jufra and airfields farther south.",
+      "visual": "Vista libya; acci?n nodes; elemento haftar; lugares TOBRUK, AL-KHADIM, SIRTE, JUFRA; nota integrada: NETWORK DESCRIBED / MARCH 2025. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 233.3064,
+      "duration_seconds": 6.0186,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "048",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "These were nodes described at that time, rather than a complete picture of today's deployments.",
+      "visual": "Vista libya; acci?n nodes; elemento haftar; lugares TOBRUK, AL-KHADIM, SIRTE, JUFRA; nota integrada: NETWORK DESCRIBED / MARCH 2025. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 239.325,
+      "duration_seconds": 5.6974,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "049",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Together, they show why Libya's geography is valuable to Moscow.",
+      "visual": "Vista libya; acci?n nodes; elemento haftar; lugares TOBRUK, AL-KHADIM, SIRTE, JUFRA; nota integrada: NETWORK DESCRIBED / MARCH 2025. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 245.0224,
+      "duration_seconds": 4.3628,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "050",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "The coast provides access from the Mediterranean.",
+      "visual": "Vista libya; acci?n logistics; elemento aid_truck; lugares BENGHAZI, JUFRA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 249.3852,
+      "duration_seconds": 3.2004,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "051",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "Inland airfields and roads can connect that coast to the Sahara and beyond.",
+      "visual": "Vista libya; acci?n logistics; elemento aid_truck; lugares BENGHAZI, JUFRA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 252.5856,
+      "duration_seconds": 4.7228,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "052",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "A ship can unload equipment that continues by truck or aircraft towards another country.",
+      "visual": "Vista libya; acci?n logistics; elemento aid_truck; lugares BENGHAZI, JUFRA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 257.3085,
+      "duration_seconds": 5.2974,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "053",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "The port may be only the first stage of a much longer journey.",
+      "visual": "Vista libya; acci?n logistics; elemento aid_truck; lugares BENGHAZI, JUFRA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 262.6059,
+      "duration_seconds": 3.6538,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "054",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "That means damage at sea could have consequences inland.",
+      "visual": "Vista libya; acci?n logistics; elemento aid_truck; lugares BENGHAZI, JUFRA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 266.2597,
+      "duration_seconds": 3.5871,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "055",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "An escort lost today might complicate a delivery planned elsewhere tomorrow.",
+      "visual": "Vista libya; acci?n logistics; elemento aid_truck; lugares BENGHAZI, JUFRA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 269.8468,
+      "duration_seconds": 4.7495,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "056",
+      "chapter": "II. RUSSIA'S LIBYAN FOOTHOLD",
+      "style": "MAP",
+      "headline": "",
+      "text": "But Libya's importance also depends on what Russia can still do across the Mediterranean, in Syria.",
+      "visual": "Vista libya; acci?n logistics; elemento aid_truck; lugares BENGHAZI, JUFRA, SAHARA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 274.5963,
+      "duration_seconds": 6.2986,
+      "sources": [
+        "S07",
+        "S13",
+        "S14"
+      ],
+      "soften": []
+    },
+    {
+      "id": "057",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "For years, Tartus and the Hmeimim airbase helped sustain Russia's position in the eastern Mediterranean.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 280.8949,
+      "duration_seconds": 6.3786,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "058",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Ships needed a harbour, and aircraft needed a reliable place to land.",
+      "visual": "Vista syria; acci?n flight; elemento aircraft; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 287.2736,
+      "duration_seconds": 4.8162,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "059",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Bashar al-Assad's fall in December twenty twenty-four shook the political foundation beneath that access.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 292.0898,
+      "duration_seconds": 6.1519,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "060",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Moscow could no longer assume that an old agreement would survive unchanged.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 298.2417,
+      "duration_seconds": 4.5762,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "061",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Libya offered another foothold at a moment when alternatives had become more valuable.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 302.8178,
+      "duration_seconds": 4.9895,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "062",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Yet Russia's Syrian facilities did not simply disappear.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 307.8074,
+      "duration_seconds": 3.7616,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "063",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "In August twenty twenty-six, Syria's foreign ministry announced a new arrangement for the two strategic bases.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 311.569,
+      "duration_seconds": 6.8731,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "064",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "According to the Associated Press, they would become joint Russian-Syrian training centres, with Russia giving up control.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 318.4421,
+      "duration_seconds": 7.341,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "065",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "The relationship was changing, but access remained part of the negotiation.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 325.7831,
+      "duration_seconds": 4.8029,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "066",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Reuters reported in September that a Russian convoy had delivered supplies to Syrian coastal facilities under the new agreement.",
+      "visual": "Vista syria; acci?n tartus; elemento angara; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 330.586,
+      "duration_seconds": 7.4743,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "067",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Moscow was adapting its presence to different political conditions.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 338.0603,
+      "duration_seconds": 4.3217,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "068",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Libya could complement that presence and reduce dependence on any single host government.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 342.382,
+      "duration_seconds": 5.1507,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "069",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Think about what a distant deployment needs every week.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 347.5327,
+      "duration_seconds": 3.3071,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "070",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Ships require fuel, spare parts, food and maintenance.",
+      "visual": "Vista syria; acci?n tartus; elemento angara; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 350.8398,
+      "duration_seconds": 4.6028,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "071",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Aircraft need runways, servicing and permission to use the airspace.",
+      "visual": "Vista syria; acci?n flight; elemento aircraft; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: CONCEPTUAL LOGISTICS. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 355.4426,
+      "duration_seconds": 4.7495,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "072",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Personnel need supplies and transport between their bases.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 360.1921,
+      "duration_seconds": 3.9216,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "073",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "A harbour can remain physically intact while the government controlling it changes the rules.",
+      "visual": "Vista syria; acci?n tartus; elemento angara; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 364.1137,
+      "duration_seconds": 5.204,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "074",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Having several possible stops gives military planners more room to respond.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 369.3178,
+      "duration_seconds": 4.8962,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "075",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "A delivery delayed in one country might be redirected through another, if the necessary agreements and transport are available.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 374.214,
+      "duration_seconds": 7.2743,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "076",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "That flexibility takes time and money to maintain.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 381.4883,
+      "duration_seconds": 3.5871,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "077",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "It also creates more places where a disruption might spread through the network.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 385.0754,
+      "duration_seconds": 4.7095,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "078",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Libya sits between Mediterranean sea routes and long journeys across North Africa.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 389.7849,
+      "duration_seconds": 5.244,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "079",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Its usefulness comes from linking those environments through ports, roads and airfields.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 395.0289,
+      "duration_seconds": 5.5507,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "080",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "A flag over a base cannot do that work alone.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 400.5797,
+      "duration_seconds": 3.4004,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "081",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Equipment has to arrive, be unloaded, and reach the people expected to use it.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 403.9801,
+      "duration_seconds": 5.2974,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "082",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "The Benghazi attack exposed a vulnerability at the coastal end of that process.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 409.2775,
+      "duration_seconds": 4.8162,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "083",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Even a ship visiting a friendly authority could be reached.",
+      "visual": "Vista syria; acci?n map; elemento contract; lugares TARTUS, HMEIMIM, SYRIA; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 414.0937,
+      "duration_seconds": 3.5871,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "084",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Ukraine did not need to attack every inland base to threaten one part of the system.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 417.6808,
+      "duration_seconds": 5.1907,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "085",
+      "chapter": "III. LIBYA AND THE SYRIAN CONNECTION",
+      "style": "MAP",
+      "headline": "",
+      "text": "Whether the damage causes lasting disruption will depend on Russia's ability to repair, protect and reroute its supplies.",
+      "visual": "Vista med; acci?n logistics; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: CONCEPTUAL LINKS / NOT A VOYAGE TRACK. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 422.8715,
+      "duration_seconds": 7.381,
+      "sources": [
+        "S15",
+        "S16",
+        "S13"
+      ],
+      "soften": []
+    },
+    {
+      "id": "086",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Why might a cargo ship matter as much as a warship?",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 430.2525,
+      "duration_seconds": 3.5071,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "087",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Because military influence far from home depends on deliveries.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 433.7596,
+      "duration_seconds": 3.9883,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "088",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Vehicles, ammunition and replacement equipment have to cross long distances before anyone can use them.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 437.7479,
+      "duration_seconds": 6.6998,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "089",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "An escort protects a shipment, but the cargo vessel carries the things a deployment needs.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 444.4477,
+      "duration_seconds": 5.6441,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "090",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "This is where two different parts of Russia's shipping activity often get mixed together.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 450.0918,
+      "duration_seconds": 5.0562,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "091",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "One concerns money earned from energy exports.",
+      "visual": "Vista med; acci?n compare; elemento oil; lugares BENGHAZI; nota integrada: ENERGY TRADE / MILITARY TRANSPORT. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 455.148,
+      "duration_seconds": 3.3338,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "092",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "The other concerns military supplies moving towards overseas partners and deployments.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 458.4818,
+      "duration_seconds": 5.4574,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "093",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Both can support Russian power, but they involve different cargoes and different journeys.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 463.9392,
+      "duration_seconds": 5.244,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "094",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "The phrase shadow fleet usually appears in discussions of sanctions and maritime trade.",
+      "visual": "Vista med; acci?n compare; elemento oil; lugares BENGHAZI; nota integrada: ENERGY TRADE / MILITARY TRANSPORT. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 469.1832,
+      "duration_seconds": 5.2707,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "095",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "European Union measures target ships and services associated with circumventing restrictions on Russia.",
+      "visual": "Vista med; acci?n compare; elemento oil; lugares BENGHAZI; nota integrada: ENERGY TRADE / MILITARY TRANSPORT. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 474.4539,
+      "duration_seconds": 6.5398,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "096",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Those measures include limits on port access and maritime services.",
+      "visual": "Vista med; acci?n compare; elemento oil; lugares BENGHAZI; nota integrada: ENERGY TRADE / MILITARY TRANSPORT. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 480.9936,
+      "duration_seconds": 4.5762,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "097",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "A ship's sanctions status, however, does not reveal everything inside its holds on a particular voyage.",
+      "visual": "Vista med; acci?n compare; elemento oil; lugares BENGHAZI; nota integrada: ENERGY TRADE / MILITARY TRANSPORT. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 485.5698,
+      "duration_seconds": 6.5131,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "098",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "An oil tanker may help generate revenue.",
+      "visual": "Vista med; acci?n compare; elemento oil; lugares BENGHAZI; nota integrada: ENERGY TRADE / MILITARY TRANSPORT. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 492.0829,
+      "duration_seconds": 3.1604,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "099",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "A dry cargo vessel may transport vehicles, containers or other supplies.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 495.2433,
+      "duration_seconds": 5.5241,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "100",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Angara was identified as a dry cargo ship in the Benghazi operation.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 500.7674,
+      "duration_seconds": 4.9229,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "101",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "The SBU linked it to Russian military logistics and the so-called Syrian and Libyan Express routes.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 505.6902,
+      "duration_seconds": 6.3253,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "102",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Kyiv's allegation makes its role important, while its exact cargo remains unclear.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 512.0155,
+      "duration_seconds": 5.6307,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "103",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Other journeys show the wider scale of Russian military shipping to Africa.",
+      "visual": "Vista africa; acci?n logistics; elemento angara; lugares GUINEA, MALI, LIBYA; nota integrada: AP INVESTIGATION / JUNE 2025. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 517.6463,
+      "duration_seconds": 4.335,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "104",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "In June twenty twenty-five, an Associated Press investigation followed cargo vessels travelling from the Baltic towards West Africa.",
+      "visual": "Vista africa; acci?n logistics; elemento angara; lugares GUINEA, MALI, LIBYA; nota integrada: AP INVESTIGATION / JUNE 2025. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 521.9813,
+      "duration_seconds": 8.2089,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "105",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Using satellite imagery and radio signals, it traced equipment unloaded in Guinea and movement onwards towards Mali.",
+      "visual": "Vista sahel; acci?n logistics; elemento angara; lugares GUINEA, MALI, SAHARA; nota integrada: AP INVESTIGATION / JUNE 2025. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 530.1902,
+      "duration_seconds": 7.3943,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "106",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "That journey followed a different route from the Libyan connection.",
+      "visual": "Vista africa; acci?n logistics; elemento angara; lugares GUINEA, MALI, LIBYA; nota integrada: AP INVESTIGATION / JUNE 2025. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 537.5845,
+      "duration_seconds": 3.6405,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "107",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Russia therefore has several ways to move equipment towards African partners.",
+      "visual": "Vista africa; acci?n logistics; elemento angara; lugares GUINEA, MALI, LIBYA; nota integrada: AP INVESTIGATION / JUNE 2025. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 541.2249,
+      "duration_seconds": 4.7895,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "108",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Damage at Benghazi would not automatically cut them all.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 546.0145,
+      "duration_seconds": 3.5605,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "109",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "It could still force choices about escorts, schedules and receiving ports.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 549.5749,
+      "duration_seconds": 5.3107,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "110",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Extra protection costs resources, while a longer voyage can slow the next delivery.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 554.8856,
+      "duration_seconds": 5.164,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "111",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "One separate convoy reportedly changed course after the attack.",
+      "visual": "Vista sicily; acci?n convoy; elemento convoy; lugares ITALY; nota integrada: REUTERS / 27 NOV 2026. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 560.0497,
+      "duration_seconds": 4.2817,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "112",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "On the twenty-seventh of November, Reuters said a Russian flotilla bound for Libya had turned around near the Strait of Sicily.",
+      "visual": "Vista sicily; acci?n convoy; elemento convoy; lugares ITALY; nota integrada: REUTERS / 27 NOV 2026. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 564.3313,
+      "duration_seconds": 7.0732,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "113",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "Military and security officials described that movement to the agency.",
+      "visual": "Vista med; acci?n harbour; elemento angara; lugares BENGHAZI; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 571.4045,
+      "duration_seconds": 4.3217,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "114",
+      "chapter": "IV. CARGO, OIL AND THE CONVOY",
+      "style": "MAP",
+      "headline": "",
+      "text": "The change could reflect caution, although the convoy's next destination remained unclear.",
+      "visual": "Vista sicily; acci?n convoy; elemento convoy; lugares ITALY; nota integrada: REUTERS / 27 NOV 2026. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 575.7262,
+      "duration_seconds": 5.364,
+      "sources": [
+        "S03",
+        "S08",
+        "S17",
+        "S18"
+      ],
+      "soften": []
+    },
+    {
+      "id": "115",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "For Ukraine, unmanned boats offer a way to threaten much larger ships without placing a crew aboard the attacking craft.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 581.0902,
+      "duration_seconds": 6.8465,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "116",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "The Black Sea had already demonstrated that possibility.",
+      "visual": "Vista crimea; acci?n usv; elemento usv; lugares CRIMEA; nota integrada: UKRAINIAN MILITARY / FEBRUARY 2024. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 587.9367,
+      "duration_seconds": 3.5871,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "117",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "In February twenty twenty-four, Ukrainian military intelligence said Magura V5 drones had destroyed the Russian landing ship Caesar Kunikov near Crimea.",
+      "visual": "Vista crimea; acci?n usv; elemento usv; lugares CRIMEA; nota integrada: UKRAINIAN MILITARY / FEBRUARY 2024. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 591.5238,
+      "duration_seconds": 9.6646,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "118",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Benghazi showed that the threat could appear far beyond those familiar waters.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 601.1884,
+      "duration_seconds": 4.4295,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "119",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "The drone model and support arrangements used in Libya are still unclear.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 605.6179,
+      "duration_seconds": 4.4695,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "120",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Small boats can be difficult targets, but defenders have options.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 610.0874,
+      "duration_seconds": 4.3895,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "121",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Surveillance, barriers and weapons can all complicate an approach.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 614.4769,
+      "duration_seconds": 4.8162,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "122",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "A successful strike means the attackers got through on that occasion, whatever defences they faced.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 619.2931,
+      "duration_seconds": 6.0052,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "123",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Other episodes suggest that the contest has reached farther into Africa, although their details are less certain.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 625.2983,
+      "duration_seconds": 6.7131,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "124",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "In September twenty twenty-three, CNN reported likely Ukrainian involvement in attacks on Wagner-backed forces near Khartoum.",
+      "visual": "Vista sudan; acci?n map; elemento operator; lugares KHARTOUM; nota integrada: REPORTED INVOLVEMENT / 2023. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 632.0114,
+      "duration_seconds": 8.4222,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "125",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Bellingcat later examined footage presented as showing Ukrainian riflemen in Sudan.",
+      "visual": "Vista sudan; acci?n map; elemento operator; lugares KHARTOUM; nota integrada: REPORTED INVOLVEMENT / 2023. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 640.4336,
+      "duration_seconds": 5.5374,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "126",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "The footage points towards Sudan, but the nationality of those men is still unclear.",
+      "visual": "Vista sudan; acci?n map; elemento operator; lugares KHARTOUM; nota integrada: REPORTED INVOLVEMENT / 2023. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 645.971,
+      "duration_seconds": 5.0296,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "127",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "The Mediterranean also had an earlier reported episode.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 651.0006,
+      "duration_seconds": 3.7349,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "128",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "In April twenty twenty-six, the Associated Press cited Libyan officials who blamed Ukrainian forces for an attack on Arctic Metagaz.",
+      "visual": "Vista med; acci?n gas; elemento gas; lugares BENGHAZI; nota integrada: LIBYAN OFFICIALS / AP, APRIL 2026. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 654.7355,
+      "duration_seconds": 8.7434,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "129",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "They said the forces had operated from western Libya.",
+      "visual": "Vista med; acci?n gas; elemento gas; lugares BENGHAZI; nota integrada: LIBYAN OFFICIALS / AP, APRIL 2026. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 663.4789,
+      "duration_seconds": 3.3338,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "130",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "The gas carrier was badly damaged, but its sinking was not confirmed.",
+      "visual": "Vista med; acci?n gas; elemento gas; lugares BENGHAZI; nota integrada: LIBYAN OFFICIALS / AP, APRIL 2026. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 666.8127,
+      "duration_seconds": 4.8829,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "131",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Claims about that operation do not settle who supported the later Benghazi strike.",
+      "visual": "Vista med; acci?n gas; elemento gas; lugares BENGHAZI; nota integrada: LIBYAN OFFICIALS / AP, APRIL 2026. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 671.6955,
+      "duration_seconds": 4.8562,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "132",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "For Benghazi, officials in eastern Libya initially pointed towards a Ukrainian-operated base in the west.",
+      "visual": "Vista libya; acci?n politics; elemento libyan; lugares TRIPOLI, BENGHAZI; nota integrada: LAUNCH ARRANGEMENTS UNCLEAR. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 676.5517,
+      "duration_seconds": 6.6464,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "133",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "The SBU described boats launched from a mother ship.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 683.1982,
+      "duration_seconds": 3.5738,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "134",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Those accounts may concern different stages of the operation.",
+      "visual": "Vista libya; acci?n politics; elemento libyan; lugares TRIPOLI, BENGHAZI; nota integrada: LAUNCH ARRANGEMENTS UNCLEAR. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 686.772,
+      "duration_seconds": 3.8016,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "135",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "How they fit together, and who helped move the equipment, remain unclear.",
+      "visual": "Vista libya; acci?n politics; elemento libyan; lugares TRIPOLI, BENGHAZI; nota integrada: LAUNCH ARRANGEMENTS UNCLEAR. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 690.5736,
+      "duration_seconds": 4.7629,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "136",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "The uncertainty matters in a country divided between rival centres of power.",
+      "visual": "Vista libya; acci?n politics; elemento libyan; lugares TRIPOLI, BENGHAZI; nota integrada: LAUNCH ARRANGEMENTS UNCLEAR. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 695.3365,
+      "duration_seconds": 4.7362,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "137",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "The strategic attraction for Kyiv is easier to understand.",
+      "visual": "Vista med; acci?n politics; elemento zelensky; lugares UKRAINE, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 700.0726,
+      "duration_seconds": 4.135,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "138",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Pressure far from Ukraine could make Russia spend more resources protecting its overseas military connections.",
+      "visual": "Vista med; acci?n usv; elemento usv; lugares BENGHAZI; nota integrada: CONCEPTUAL RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 704.2076,
+      "duration_seconds": 6.4053,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "139",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "That does not mean every suspected incident belongs to one coordinated global campaign.",
+      "visual": "Vista med; acci?n politics; elemento zelensky; lugares UKRAINE, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 710.6129,
+      "duration_seconds": 5.5107,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "140",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Different operations can have different organisers, partners and objectives.",
+      "visual": "Vista med; acci?n politics; elemento zelensky; lugares UKRAINE, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 716.1236,
+      "duration_seconds": 5.0029,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "141",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Distance also creates costs for the attacker.",
+      "visual": "Vista med; acci?n politics; elemento zelensky; lugares UKRAINE, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 721.1265,
+      "duration_seconds": 3.0804,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "142",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "Equipment and personnel committed abroad are resources Ukraine cannot use somewhere else at the same time.",
+      "visual": "Vista med; acci?n politics; elemento zelensky; lugares UKRAINE, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 724.2069,
+      "duration_seconds": 6.1253,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "143",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "An operation may damage a Russian ship while creating friction with governments whose support Kyiv needs.",
+      "visual": "Vista med; acci?n politics; elemento zelensky; lugares UKRAINE, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 730.3322,
+      "duration_seconds": 6.2719,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "144",
+      "chapter": "V. UKRAINE'S WAR BEYOND THE BLACK SEA",
+      "style": "MAP",
+      "headline": "",
+      "text": "After Benghazi, that diplomatic risk became impossible to ignore.",
+      "visual": "Vista med; acci?n politics; elemento zelensky; lugares UKRAINE, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 736.6041,
+      "duration_seconds": 4.3895,
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S19",
+        "S20",
+        "S21"
+      ],
+      "soften": []
+    },
+    {
+      "id": "145",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Tripoli condemned the operation and said Libya should not be drawn into the war.",
+      "visual": "Vista libya; acci?n politics; elemento libyan; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 740.9936,
+      "duration_seconds": 4.7895,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "146",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Ukraine's foreign minister, Andrii Sybiha, defended the attack as self-defence against Russian aggression.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 745.7831,
+      "duration_seconds": 6.4586,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "147",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Kyiv saw a Russian military connection worth striking.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 752.2418,
+      "duration_seconds": 3.5471,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "148",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Libyan authorities faced foreign warfare reaching their coastline, with Libyan officers among the casualties.",
+      "visual": "Vista libya; acci?n politics; elemento libyan; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 755.7889,
+      "duration_seconds": 6.4053,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "149",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "The United Nations mission called for restraint and an investigation.",
+      "visual": "Vista libya; acci?n politics; elemento libyan; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 762.1942,
+      "duration_seconds": 4.135,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "150",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Eastern Libyan forces threatened retaliation following the officers' deaths.",
+      "visual": "Vista libya; acci?n politics; elemento libyan; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 766.3292,
+      "duration_seconds": 4.6828,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "151",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Russia accused Ukraine of dangerously extending the conflict towards the Mediterranean and Baltic seas.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 771.012,
+      "duration_seconds": 6.4453,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "152",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "These reactions opened another set of risks beyond the damage inside the harbour.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 777.4573,
+      "duration_seconds": 4.8562,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "153",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Where a response might come, or whether threats would become action, remained uncertain.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 782.3135,
+      "duration_seconds": 5.324,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "154",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Then came a dispute involving Ukraine's European partners.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 787.6376,
+      "duration_seconds": 3.975,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "155",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Italian officials denied that the Libya strike had been coordinated with them beforehand.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 791.6125,
+      "duration_seconds": 5.3107,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "156",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "After speaking with Giorgia Meloni, Zelensky said there had been no prior coordination with European partners.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 796.9232,
+      "duration_seconds": 6.7665,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "157",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Reuters reported that clarification on the twenty-eighth of November.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 803.6897,
+      "duration_seconds": 4.215,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "158",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "European support for Ukraine did not mean Europe had approved this particular operation.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 807.9047,
+      "duration_seconds": 5.3907,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "159",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "For Moscow, one option would be to strengthen protection around ships and access points.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: POSSIBLE RESPONSES. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 813.2954,
+      "duration_seconds": 5.5774,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "160",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "That might involve more escorts, more surveillance or changes to port visits.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 818.8728,
+      "duration_seconds": 4.9495,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "161",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Each measure could make the network more expensive to sustain.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: POSSIBLE RESPONSES. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 823.8223,
+      "duration_seconds": 3.7483,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "162",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Russia could also seek alternative routes, using the flexibility that its wider presence provides.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: POSSIBLE RESPONSES. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 827.5706,
+      "duration_seconds": 6.2719,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "163",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "For Kyiv, repeated distant attacks could increase the pressure while consuming equipment and diplomatic goodwill.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 833.8426,
+      "duration_seconds": 6.4453,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "164",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "The military benefit would have to justify both costs.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 840.2879,
+      "duration_seconds": 3.7349,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "165",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "For Libyans, the danger is more immediate: local ports and bases could become targets in somebody else's war.",
+      "visual": "Vista libya; acci?n politics; elemento libyan; lugares TRIPOLI, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 844.0228,
+      "duration_seconds": 7.2076,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "166",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Rival authorities may face different pressures, but civilians and personnel can suffer the consequences in either territory.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 851.2304,
+      "duration_seconds": 7.6077,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "167",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "The lasting effect will become clearer through the next ship movements, port repairs and political decisions.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 858.8381,
+      "duration_seconds": 6.7264,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "168",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "A delayed convoy would suggest caution.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: POSSIBLE RESPONSES. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 865.5645,
+      "duration_seconds": 2.8393,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "169",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Continued deliveries would show the network adapting.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: POSSIBLE RESPONSES. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 868.4038,
+      "duration_seconds": 3.3871,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "170",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Either way, a single strike cannot by itself tell the whole story of Russia's future in Africa.",
+      "visual": "Vista med; acci?n convoy; elemento convoy; lugares BENGHAZI, TARTUS; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 871.7909,
+      "duration_seconds": 5.8586,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "171",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Return to the Russian corvette overturned beside a Libyan quay.",
+      "visual": "Vista med; acci?n wreck; elemento corvette; lugares BENGHAZI, TARTUS; nota integrada: ANIMATED RECONSTRUCTION. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 877.6495,
+      "duration_seconds": 4.055,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "172",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Its distance from Ukraine did not keep it safe.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 881.7044,
+      "duration_seconds": 3.3071,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "173",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Kyiv reached one junction in a much wider system, while creating new arguments about how far this war should spread.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 885.0115,
+      "duration_seconds": 7.2343,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "174",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Should military supply routes remain targets wherever they lead?",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 892.2458,
+      "duration_seconds": 3.9883,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    },
+    {
+      "id": "175",
+      "chapter": "VI. THE COST OF WIDENING THE WAR",
+      "style": "MAP",
+      "headline": "",
+      "text": "Tell us where you would draw the line.",
+      "visual": "Vista europe; acci?n politics; elemento zelensky; lugares ITALY, BENGHAZI; nota integrada: ninguna. Entrada con movimiento, acci?n en storyboard.py y cambios visuales cada 7.5 s como m?ximo.",
+      "start_seconds": 896.2341,
+      "duration_seconds": 2.4659,
+      "sources": [
+        "S06",
+        "S07",
+        "S08",
+        "S09",
+        "S10",
+        "S11",
+        "S22"
+      ],
+      "soften": []
+    }
+  ],
+  "production_voice": {
+    "synth": "Scripts/voz.py",
+    "voice": "en-GB-RyanNeural",
+    "rate": "+4%",
+    "post_atempo": 0.8998809126321646,
+    "note": "Ryan, tono preservado; ritmo final aproximado 145 palabras/min con pausas."
+  }
+}
